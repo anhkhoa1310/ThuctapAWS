@@ -117,10 +117,10 @@ Buổi Workshop được tổ chức trong không khí chuyên nghiệp nhưng r
 
 ### Hình ảnh sự kiện
 
-<img src="/images/4-EventParticipated/4.2-Event2/anh1.jpg" alt="Mô tả ảnh" width="800px">
-<img src="/images/4-EventParticipated/4.2-Event2/anh2.jpg" alt="Mô tả ảnh" width="800px">
-<img src="/images/4-EventParticipated/4.2-Event2/anh3.jpg" alt="Mô tả ảnh" width="800px">
-<img src="/images/4-EventParticipated/4.2-Event2/anh4.jpg" alt="Mô tả ảnh" width="800px">
-<img src="/images/4-EventParticipated/4.2-Event2/anh5.jpg" alt="Mô tả ảnh" width="800px">
-<img src="/images/4-EventParticipated/4.2-Event2/anh6.jpg" alt="Mô tả ảnh" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.2-Event2/anh1.jpg" alt="Mô tả ảnh" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.2-Event2/anh2.jpg" alt="Mô tả ảnh" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.2-Event2/anh3.jpg" alt="Mô tả ảnh" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.2-Event2/anh4.jpg" alt="Mô tả ảnh" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.2-Event2/anh5.jpg" alt="Mô tả ảnh" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.2-Event2/anh6.jpg" alt="Mô tả ảnh" width="800px">
 > Tóm lại, sự kiện là cầu nối giữa những kiến thức về Quản trị mạng và An toàn thông tin mà em đang được học tại trường với các tiêu chuẩn Cloud hiện đại trong doanh nghiệp. Buổi chia sẻ không chỉ giúp em hiểu rõ hơn về các công nghệ như Container, Serverless, AWS WAF và Machine Learning, mà còn củng cố quyết tâm theo đuổi lĩnh vực hạ tầng mạng, điện toán đám mây và an toàn thông tin, đồng thời định hướng cho em trong việc ứng dụng AI vào các giải pháp bảo mật trong tương lai.

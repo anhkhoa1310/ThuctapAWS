@@ -31,7 +31,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày **11/05/2026** đến **31/07/2026**
 
-![Ảnh đại diện](/images/avatar.png)
+![Ảnh đại diện](/ThuctapAWS/images/avatar.png)
 
 ---
 

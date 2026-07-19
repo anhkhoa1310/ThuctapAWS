@@ -28,4 +28,4 @@ In this workshop, you will deploy the VPC, private subnets, security groups, and
 
 #### PharmaCare AI overall architecture
 
-![PharmaCare AI Overall Architecture](/images/2-Proposal/dia1.png)
+![PharmaCare AI Overall Architecture](/ThuctapAWS/images/2-Proposal/dia1.png)

@@ -153,11 +153,11 @@ Việc đội **KLKAT đạt Top 1** là một động lực lớn giúp em tự
 
 ### Hình ảnh sự kiện
 
-<img src="/images/4-EventParticipated/4.4-Event4/anh1.jpg" alt="Mô tả ảnh" width="800px">
-<img src="/images/4-EventParticipated/4.4-Event4/anh2.jpg" alt="Mô tả ảnh" width="800px">
-<img src="/images/4-EventParticipated/4.4-Event4/anh3.jpg" alt="Mô tả ảnh" width="800px">
-<img src="/images/4-EventParticipated/4.4-Event4/anh4.jpg" alt="Mô tả ảnh" width="800px">
-<img src="/images/4-EventParticipated/4.4-Event4/anh5.jpg" alt="Mô tả ảnh" width="800px">
-<img src="/images/4-EventParticipated/4.4-Event4/anh6.jpg" alt="Mô tả ảnh" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.4-Event4/anh1.jpg" alt="Mô tả ảnh" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.4-Event4/anh2.jpg" alt="Mô tả ảnh" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.4-Event4/anh3.jpg" alt="Mô tả ảnh" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.4-Event4/anh4.jpg" alt="Mô tả ảnh" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.4-Event4/anh5.jpg" alt="Mô tả ảnh" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.4-Event4/anh6.jpg" alt="Mô tả ảnh" width="800px">
 
 > Tóm lại, sự kiện đã giúp em củng cố kiến thức về AWS Cloud, Security và Monitoring thông qua cả hoạt động thi đấu lẫn các buổi chia sẻ chuyên môn. Đồng thời, workshop cũng mang lại cho em định hướng rõ ràng hơn trong việc học tập, phát triển kỹ năng và chuẩn bị cho các chứng chỉ AWS cũng như công việc trong lĩnh vực Cloud Computing và An toàn thông tin trong tương lai.

@@ -28,4 +28,4 @@ Trong workshop này, bạn sẽ triển khai VPC, Private Subnet, Security Group
 
 #### Kiến trúc tổng thể PharmaCare AI
 
-![Kiến trúc tổng thể PharmaCare AI](/images/2-Proposal/dia1.png)
+![Kiến trúc tổng thể PharmaCare AI](/ThuctapAWS/images/2-Proposal/dia1.png)

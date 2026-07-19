@@ -134,12 +134,12 @@ Professional yet open. The case studies on applying AI to WAF truly opened a new
 ### Knowledge on Containers vs VMs
 ## Event Gallery
 
-<img src="/images/4-EventParticipated/4.2-Event2/anh1.jpg" alt="Event Image 1" width="800px">
-<img src="/images/4-EventParticipated/4.2-Event2/anh2.jpg" alt="Event Image 2" width="800px">
-<img src="/images/4-EventParticipated/4.2-Event2/anh3.jpg" alt="Event Image 3" width="800px">
-<img src="/images/4-EventParticipated/4.2-Event2/anh4.jpg" alt="Event Image 4" width="800px">
-<img src="/images/4-EventParticipated/4.2-Event2/anh5.jpg" alt="Event Image 5" width="800px">
-<img src="/images/4-EventParticipated/4.2-Event2/anh6.jpg" alt="Event Image 6" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.2-Event2/anh1.jpg" alt="Event Image 1" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.2-Event2/anh2.jpg" alt="Event Image 2" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.2-Event2/anh3.jpg" alt="Event Image 3" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.2-Event2/anh4.jpg" alt="Event Image 4" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.2-Event2/anh5.jpg" alt="Event Image 5" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.2-Event2/anh6.jpg" alt="Event Image 6" width="800px">
 
 > In short, the event served as a perfect bridge between the Network Administration/Security knowledge I am learning in school and practical enterprise Cloud standards. It reinforced my determination to master network infrastructure and integrate AI into security workflows.
 > In short, the event served as a perfect bridge between the Network Administration/Security knowledge I am learning in school and practical enterprise Cloud standards. It reinforced my determination to master network infrastructure and integrate AI into security workflows.

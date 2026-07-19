@@ -261,8 +261,8 @@ Overall, the event inspired me to continue learning, improving my technical abil
 
 ## Event Gallery
 
-<img src="/images/4-EventParticipated/4.3-Event3/anh1.jpg" alt="Event Image 1" width="800px">
-<img src="/images/4-EventParticipated/4.3-Event3/anh2.jpg" alt="Event Image 2" width="800px">
-<img src="/images/4-EventParticipated/4.3-Event3/anh3.jpg" alt="Event Image 3" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.3-Event3/anh1.jpg" alt="Event Image 1" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.3-Event3/anh2.jpg" alt="Event Image 2" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.3-Event3/anh3.jpg" alt="Event Image 3" width="800px">
 
 > Attending this workshop gave me not only valuable technical knowledge but also a clearer understanding of different career opportunities in the technology industry. The experiences shared by the speakers have become a great source of motivation for me to continue learning, improving my skills, and preparing for my future career.

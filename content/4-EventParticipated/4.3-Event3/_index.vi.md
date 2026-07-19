@@ -267,8 +267,8 @@ Thông qua những chia sẻ chân thực của các diễn giả, em hiểu rõ
 
 ## Hình ảnh sự kiện
 
-<img src="/images/4-EventParticipated/4.3-Event3/anh1.jpg" alt="Mô tả ảnh" width="800px">
-<img src="/images/4-EventParticipated/4.3-Event3/anh2.jpg" alt="Mô tả ảnh" width="800px">
-<img src="/images/4-EventParticipated/4.3-Event3/anh3.jpg" alt="Mô tả ảnh" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.3-Event3/anh1.jpg" alt="Mô tả ảnh" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.3-Event3/anh2.jpg" alt="Mô tả ảnh" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.3-Event3/anh3.jpg" alt="Mô tả ảnh" width="800px">
 
 > Buổi Workshop không chỉ giúp em mở rộng kiến thức chuyên môn mà còn mang lại nhiều bài học quý giá về định hướng nghề nghiệp, kỹ năng làm việc và tư duy phát triển bản thân. Đây là một trong những hoạt động ý nghĩa nhất trong suốt quá trình tham gia chương trình First Cloud AI Journey.

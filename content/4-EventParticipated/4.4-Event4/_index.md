@@ -153,11 +153,11 @@ Finally, the AWS certification sharing session provided valuable guidance for my
 
 ### Event Gallery
 
-<img src="/images/4-EventParticipated/4.4-Event4/anh1.jpg" alt="Event Image 1" width="800px">
-<img src="/images/4-EventParticipated/4.4-Event4/anh2.jpg" alt="Event Image 2" width="800px">
-<img src="/images/4-EventParticipated/4.4-Event4/anh3.jpg" alt="Event Image 3" width="800px">
-<img src="/images/4-EventParticipated/4.4-Event4/anh4.jpg" alt="Event Image 4" width="800px">
-<img src="/images/4-EventParticipated/4.4-Event4/anh5.jpg" alt="Event Image 5" width="800px">
-<img src="/images/4-EventParticipated/4.4-Event4/anh6.jpg" alt="Event Image 5" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.4-Event4/anh1.jpg" alt="Event Image 1" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.4-Event4/anh2.jpg" alt="Event Image 2" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.4-Event4/anh3.jpg" alt="Event Image 3" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.4-Event4/anh4.jpg" alt="Event Image 4" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.4-Event4/anh5.jpg" alt="Event Image 5" width="800px">
+<img src="/ThuctapAWS/images/4-EventParticipated/4.4-Event4/anh6.jpg" alt="Event Image 5" width="800px">
 
 > Overall, this workshop provided both valuable technical knowledge and practical career guidance. It strengthened my understanding of AWS Cloud technologies, security monitoring, and professional certification pathways, while motivating me to continue developing my cloud computing and cybersecurity skills.                
