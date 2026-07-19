@@ -1,59 +1,62 @@
 ---
-title: "Worklog Tuần 11"
-date: 2024-01-01
-weight: 2
+title: "Tuần 11"
+date: 2026-07-06
+weight: 11
 chapter: false
 pre: " <b> 1.11. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
 
 ### Mục tiêu tuần 11:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Triển khai hoàn chỉnh hệ thống lên môi trường AWS Cloud.
+* Thực hiện kiểm thử chấp nhận người dùng (User Acceptance Testing - UAT).
+* Tối ưu hiệu năng và trải nghiệm sử dụng của hệ thống.
+* Hoàn thiện tài liệu kỹ thuật của dự án.
+* Chuẩn bị hệ thống trước khi báo cáo và nghiệm thu.
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+### Công việc thực hiện trong tuần:
 
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
+| Thứ Hai | Triển khai Frontend và Backend lên môi trường AWS thông qua AWS Amplify, Amazon API Gateway, AWS Lambda, Amazon RDS, Amazon S3 và Amazon Bedrock. | 29/06/2026 | 29/06/2026 | AWS Documentation |
+| Thứ Ba | Kiểm tra môi trường triển khai, xác minh hoạt động của các dịch vụ AWS và thực hiện kiểm thử các chức năng chính của hệ thống. | 30/06/2026 | 30/06/2026 | Testing Documentation |
+| Thứ Tư | Thực hiện User Acceptance Testing (UAT), ghi nhận các phản hồi, phát hiện lỗi và tiến hành điều chỉnh hệ thống. | 01/07/2026 | 01/07/2026 | UAT Checklist |
+| Thứ Năm | Tối ưu hiệu năng hệ thống, cải thiện tốc độ phản hồi của Chatbot AI, API, truy vấn cơ sở dữ liệu và giao diện người dùng. | 02/07/2026 | 02/07/2026 | Performance Guideline |
+| Thứ Sáu | Hoàn thiện tài liệu kỹ thuật, tài liệu triển khai, mô tả kiến trúc hệ thống và trao đổi kết quả cuối cùng với Mentor. | 03/07/2026 | 03/07/2026 | Mentor Guidance |
 
-### Kết quả đạt được tuần 11:
+### Kết quả đạt được trong tuần:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Triển khai thành công **Website Nhà Thuốc Online & Hệ Thống Chatbot AI Tư Vấn Y Tế dựa trên AWS Serverless** lên môi trường AWS.
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* Xác nhận hệ thống hoạt động đồng bộ giữa các dịch vụ:
+  * AWS Amplify.
+  * Amazon Cognito.
+  * Amazon API Gateway.
+  * AWS Lambda.
+  * Amazon RDS.
+  * Amazon S3.
+  * Amazon Bedrock.
+  * Amazon OpenSearch Serverless.
+  * Amazon CloudWatch.
+  * Amazon SNS.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* Hoàn thành kiểm thử chấp nhận người dùng (User Acceptance Testing - UAT) và xác nhận các chức năng chính hoạt động ổn định.
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+* Cải thiện chất lượng phản hồi của Chatbot AI và tối ưu hiệu năng của các API.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* Tối ưu truy vấn cơ sở dữ liệu và cải thiện tốc độ tải của giao diện người dùng.
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
+* Hoàn thiện tài liệu kỹ thuật, tài liệu triển khai và mô tả kiến trúc hệ thống.
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* Chuẩn bị đầy đủ cho giai đoạn báo cáo và nghiệm thu đồ án thực tập.
 
+### Kiến thức đạt được:
 
+* Triển khai hệ thống trên AWS Cloud.
+* User Acceptance Testing (UAT).
+* Tối ưu hiệu năng hệ thống Cloud.
+* Quy trình triển khai phần mềm.
+* Xây dựng tài liệu kỹ thuật.
+* Quản lý môi trường Production.
+* Đảm bảo chất lượng phần mềm.
+* Bảo trì và vận hành ứng dụng Cloud.

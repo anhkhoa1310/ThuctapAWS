@@ -1,57 +1,62 @@
 ---
 title: "Week 11 Worklog"
-date: 2024-01-01
-weight: 2
+date: 2026-07-06
+weight: 11
 chapter: false
 pre: " <b> 1.11. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
-
 
 ### Week 11 Objectives:
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Deploy the complete application to the AWS Cloud environment.
+* Perform User Acceptance Testing (UAT) and system validation.
+* Optimize the overall application performance and user experience.
+* Prepare technical documentation for the project.
+* Finalize the system before the internship presentation.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
+| Monday | Deploy the frontend and backend services to AWS using AWS Amplify, API Gateway, Lambda, Amazon RDS, Amazon S3, and Amazon Bedrock. | 29/06/2026 | 29/06/2026 | AWS Documentation |
+| Tuesday | Verify the deployment environment and perform functional testing to ensure all cloud services operate correctly. | 30/06/2026 | 30/06/2026 | Testing Documentation |
+| Wednesday | Conduct User Acceptance Testing (UAT), collect feedback, identify issues, and improve the system accordingly. | 01/07/2026 | 01/07/2026 | UAT Checklist |
+| Thursday | Optimize application performance, improve chatbot responses, database queries, API execution, and frontend responsiveness. | 02/07/2026 | 02/07/2026 | Performance Guideline |
+| Friday | Prepare technical documentation, deployment guide, system architecture description, and discuss the final results with the mentor. | 03/07/2026 | 03/07/2026 | Mentor Guidance |
 
 ### Week 11 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Successfully deployed the Online Pharmacy Website & AI Medical Consultation Chatbot System on AWS.
 
-* Successfully created and configured an AWS Free Tier account.
+* Verified the successful integration of:
+  * AWS Amplify.
+  * Amazon Cognito.
+  * Amazon API Gateway.
+  * AWS Lambda.
+  * Amazon RDS.
+  * Amazon S3.
+  * Amazon Bedrock.
+  * Amazon OpenSearch Serverless.
+  * Amazon CloudWatch.
+  * Amazon SNS.
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+* Completed User Acceptance Testing (UAT) and validated the core business functionalities.
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+* Improved chatbot response quality and optimized API performance.
 
-* Used AWS CLI to perform basic operations such as:
+* Optimized database queries and frontend loading speed.
 
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
+* Completed technical documentation, deployment guide, and system architecture documentation.
 
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* Prepared the project for the final presentation and internship evaluation.
+
+### Knowledge Gained:
+
+* AWS Cloud Deployment.
+* User Acceptance Testing (UAT).
+* Cloud performance optimization.
+* Deployment workflow.
+* Technical documentation.
+* Production environment management.
+* Software quality assurance.
+* Cloud application maintenance.

@@ -1,59 +1,63 @@
 ---
-title: "Worklog Tuần 8"
-date: 2024-01-01
-weight: 1
+title: "Tuần 8"
+date: 2026-06-15
+weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
 
 ### Mục tiêu tuần 8:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Tiếp tục phát triển đồ án thực tập.
+* Xây dựng giao diện Website Nhà Thuốc Online.
+* Triển khai chức năng xác thực người dùng bằng Amazon Cognito.
+* Kết nối giao diện với các RESTful API của hệ thống.
+* Xây dựng chức năng xem và đặt mua thuốc.
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+### Công việc thực hiện trong tuần:
 
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
+| Thứ Hai | Khởi tạo dự án Frontend bằng Next.js kết hợp AWS Amplify, cấu hình cấu trúc thư mục và định tuyến cho hệ thống. | 08/06/2026 | 08/06/2026 | Next.js Documentation |
+| Thứ Ba | Thiết kế và xây dựng giao diện Trang chủ, Danh mục thuốc và Chi tiết thuốc. | 09/06/2026 | 09/06/2026 | UI Design |
+| Thứ Tư | Tích hợp Amazon Cognito để triển khai chức năng đăng ký, đăng nhập, xác thực và phân quyền người dùng. | 10/06/2026 | 10/06/2026 | Amazon Cognito Documentation |
+| Thứ Năm | Kết nối Frontend với các RESTful API để hiển thị dữ liệu thuốc, thông tin khách hàng và xây dựng chức năng đặt mua thuốc. | 11/06/2026 | 11/06/2026 | REST API Documentation |
+| Thứ Sáu | Kiểm thử giao diện, xác minh quy trình đăng nhập, đánh giá tiến độ cùng Mentor và tối ưu trải nghiệm người dùng. | 12/06/2026 | 12/06/2026 | Mentor Guidance |
 
-### Kết quả đạt được tuần 8:
+### Kết quả đạt được trong tuần:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Hoàn thành nền tảng Frontend bằng Next.js.
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* Xây dựng thành công các giao diện chính gồm:
+  * Trang chủ.
+  * Danh mục thuốc.
+  * Chi tiết thuốc.
+  * Đăng nhập.
+  * Đăng ký tài khoản.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* Tích hợp thành công Amazon Cognito để thực hiện:
+  * Đăng ký tài khoản.
+  * Đăng nhập.
+  * Xác thực người dùng.
+  * Quản lý phiên đăng nhập.
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+* Kết nối giao diện với các RESTful API đã xây dựng ở Backend.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* Hiển thị thành công dữ liệu thuốc từ Amazon RDS thông qua AWS Lambda.
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
+* Hoàn thiện chức năng đặt mua thuốc cơ bản.
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* Cải thiện trải nghiệm người dùng bằng cách tối ưu bố cục giao diện và điều hướng.
 
+* Kiểm tra thành công khả năng hoạt động đồng bộ giữa Frontend, Backend và hệ thống xác thực.
 
+### Kiến thức đạt được:
+
+* Phát triển Frontend bằng Next.js.
+* Xác thực người dùng với Amazon Cognito.
+* Triển khai ứng dụng bằng AWS Amplify.
+* Kết nối Frontend và Backend.
+* Sử dụng RESTful API.
+* Thiết kế giao diện người dùng.
+* Quy trình xác thực người dùng.
+* Kiến trúc ứng dụng Web hiện đại.

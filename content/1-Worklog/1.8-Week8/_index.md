@@ -1,57 +1,63 @@
 ---
-title: "Week 8 Worklog"
-date: 2024-01-01
-weight: 1
+title: "Week 8"
+date: 2026-06-15
+weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
-
 
 ### Week 8 Objectives:
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Continue developing the internship project.
+* Build the frontend interface for the Online Pharmacy Website.
+* Implement user authentication using Amazon Cognito.
+* Integrate frontend with backend RESTful APIs.
+* Develop medicine ordering and product browsing features.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
+| Monday | Set up the frontend project using Next.js and AWS Amplify. Configure the project structure and routing. | 08/06/2026 | 08/06/2026 | Next.js Documentation |
+| Tuesday | Design and develop the user interface for the homepage, medicine catalog, and medicine detail pages. | 09/06/2026 | 09/06/2026 | UI Design |
+| Wednesday | Integrate Amazon Cognito to implement user registration, login, authentication, and authorization. | 10/06/2026 | 10/06/2026 | Amazon Cognito Documentation |
+| Thursday | Connect the frontend with backend RESTful APIs to display medicine information and customer data. Implement medicine ordering functionality. | 11/06/2026 | 11/06/2026 | REST API Documentation |
+| Friday | Perform frontend testing, verify authentication workflow, review progress with the mentor, and optimize the user interface. | 12/06/2026 | 12/06/2026 | Mentor Guidance |
 
 ### Week 8 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Successfully developed the frontend foundation using Next.js.
 
-* Successfully created and configured an AWS Free Tier account.
+* Designed the main user interfaces, including:
+  * Home page.
+  * Medicine catalog.
+  * Medicine details.
+  * Login page.
+  * Registration page.
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+* Successfully integrated Amazon Cognito for:
+  * User registration.
+  * User login.
+  * Authentication.
+  * Session management.
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+* Connected the frontend with backend RESTful APIs.
 
-* Used AWS CLI to perform basic operations such as:
+* Successfully displayed medicine data retrieved from Amazon RDS through AWS Lambda APIs.
 
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
+* Implemented the basic medicine ordering workflow.
 
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* Improved user experience by optimizing page layout and navigation.
+
+* Verified that frontend, backend, and authentication services worked together correctly.
+
+### Knowledge Gained:
+
+* Next.js frontend development.
+* Amazon Cognito authentication.
+* AWS Amplify deployment.
+* Frontend and Backend integration.
+* REST API consumption.
+* User Interface development.
+* Authentication workflow.
+* Modern web application architecture.

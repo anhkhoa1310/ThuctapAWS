@@ -1,59 +1,60 @@
 ---
-title: "Worklog Tuần 10"
-date: 2024-01-01
-weight: 2
+title: "Tuần 10"
+date: 2026-06-29
+weight: 10
 chapter: false
 pre: " <b> 1.10. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
 
 ### Mục tiêu tuần 10:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Hoàn thiện việc tích hợp các thành phần của hệ thống.
+* Triển khai các dịch vụ giám sát và thông báo trên AWS.
+* Kiểm thử tổng thể toàn bộ hệ thống.
+* Tối ưu hiệu năng và khắc phục các lỗi phát sinh.
+* Chuẩn bị hệ thống sẵn sàng triển khai.
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+### Công việc thực hiện trong tuần:
 
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
+| Thứ Hai | Tích hợp toàn bộ các thành phần đã phát triển gồm Backend, Frontend, hệ thống xác thực, cơ sở dữ liệu và AI Chatbot thành một hệ thống hoàn chỉnh. | 22/06/2026 | 22/06/2026 | Project Documentation |
+| Thứ Ba | Cấu hình Amazon CloudWatch để giám sát AWS Lambda, API Gateway và theo dõi log của hệ thống. | 23/06/2026 | 23/06/2026 | Amazon CloudWatch Documentation |
+| Thứ Tư | Triển khai Amazon SNS để gửi thông báo và cảnh báo quan trọng đến người dùng và quản trị viên. | 24/06/2026 | 24/06/2026 | Amazon SNS Documentation |
+| Thứ Năm | Kiểm thử tích hợp toàn bộ hệ thống, xác minh hoạt động của các API, AI Chatbot và các chức năng chính của Website Nhà Thuốc Online. | 25/06/2026 | 25/06/2026 | Testing Documentation |
+| Thứ Sáu | Tối ưu hiệu năng hệ thống, khắc phục các lỗi phát hiện trong quá trình kiểm thử và đánh giá tiến độ cùng Mentor. | 26/06/2026 | 26/06/2026 | Mentor Guidance |
 
-### Kết quả đạt được tuần 10:
+### Kết quả đạt được trong tuần:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Hoàn thành việc tích hợp toàn bộ các thành phần của hệ thống thành một ứng dụng hoàn chỉnh.
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* Cấu hình thành công Amazon CloudWatch để:
+  * Giám sát hoạt động của AWS Lambda.
+  * Theo dõi log từ API Gateway.
+  * Giám sát hiệu năng của hệ thống.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* Triển khai thành công Amazon SNS để gửi thông báo tự động.
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+* Hoàn thành kiểm thử tổng thể cho các chức năng:
+  * Đăng nhập và xác thực người dùng.
+  * Quản lý thuốc.
+  * Đặt mua thuốc trực tuyến.
+  * Chatbot AI tư vấn y tế.
+  * Thao tác với cơ sở dữ liệu.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* Khắc phục các lỗi phát hiện trong quá trình kiểm thử và cải thiện tốc độ phản hồi của hệ thống.
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
+* Nâng cao tính ổn định và độ tin cậy của ứng dụng trên nền tảng AWS Serverless.
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* Chuẩn bị hệ thống cho giai đoạn triển khai và nghiệm thu.
 
+### Kiến thức đạt được:
 
+* Amazon CloudWatch.
+* Amazon SNS.
+* Kiểm thử tích hợp hệ thống.
+* Tối ưu hiệu năng phần mềm.
+* Kỹ thuật Debug và xử lý lỗi.
+* Dịch vụ giám sát trên AWS.
+* Kiểm thử End-to-End.
+* Chuẩn bị triển khai hệ thống.

@@ -1,59 +1,64 @@
 ---
-title: "Worklog Tuần 5"
-date: 2024-01-01
-weight: 1
+title: "Tuần 5"
+date: 2026-05-25
+weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
 
 ### Mục tiêu tuần 5:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Bắt đầu giai đoạn thực hiện đồ án thực tập.
+* Phân tích yêu cầu của hệ thống và xác định các chức năng chính.
+* Nghiên cứu các dịch vụ AWS sẽ sử dụng trong hệ thống.
+* Tham khảo các hệ thống nhà thuốc trực tuyến để xây dựng ý tưởng.
+* Xây dựng phạm vi và lộ trình phát triển dự án.
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+### Công việc thực hiện trong tuần:
 
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
+| Thứ Hai | Làm việc với Mentor để trao đổi về mục tiêu đồ án, phạm vi thực hiện, các sản phẩm cần hoàn thành và kế hoạch phát triển trong thời gian thực tập. | 18/05/2026 | 18/05/2026 | Mentor Guidance |
+| Thứ Ba | Phân tích yêu cầu của đề tài Website Nhà Thuốc Online & Hệ Thống Chatbot AI Tư Vấn Y Tế dựa trên AWS Serverless. Xác định các nhóm người dùng và chức năng của hệ thống. | 19/05/2026 | 19/05/2026 | Project Requirement |
+| Thứ Tư | Nghiên cứu các hệ thống bán thuốc trực tuyến và phần mềm quản lý nhà thuốc để tham khảo quy trình hoạt động và các chức năng cần thiết. | 20/05/2026 | 20/05/2026 | Internet Research |
+| Thứ Năm | Phân tích kiến trúc AWS và lựa chọn các dịch vụ sẽ sử dụng gồm AWS Amplify, Amazon Cognito, API Gateway, AWS Lambda, Amazon RDS, Amazon S3, Amazon Bedrock, Amazon OpenSearch Serverless, Amazon CloudWatch và Amazon SNS. | 21/05/2026 | 21/05/2026 | AWS Documentation |
+| Thứ Sáu | Tổng hợp kết quả phân tích, xác định phạm vi hệ thống và chuẩn bị bước thiết kế hệ thống trong tuần tiếp theo. | 22/05/2026 | 22/05/2026 | Mentor Guidance |
 
-### Kết quả đạt được tuần 5:
+### Kết quả đạt được trong tuần:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Chính thức bắt đầu triển khai đồ án thực tập.
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* Hoàn thành việc phân tích yêu cầu của đề tài:
+  * Website Nhà Thuốc Online.
+  * Hệ Thống Chatbot AI Tư Vấn Y Tế.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* Xác định các nhóm người dùng chính:
+  * Khách hàng.
+  * Quản trị viên.
+  * Dược sĩ.
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+* Xác định các chức năng chính của hệ thống:
+  * Quản lý thuốc.
+  * Quản lý danh mục thuốc.
+  * Quản lý tồn kho.
+  * Quản lý đơn hàng.
+  * Quản lý khách hàng.
+  * Chatbot AI tư vấn y tế.
+  * Đăng nhập và xác thực người dùng.
+  * Đặt thuốc trực tuyến.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* Nghiên cứu các hệ thống nhà thuốc trực tuyến để tham khảo mô hình triển khai và giao diện.
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
+* Phân tích kiến trúc AWS Serverless và lựa chọn các dịch vụ phù hợp với yêu cầu của đồ án.
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* Hoàn thiện kế hoạch phát triển và chuẩn bị bước thiết kế hệ thống ở tuần tiếp theo.
 
+### Kiến thức đạt được:
 
+* Phân tích yêu cầu hệ thống.
+* Phân tích chức năng phần mềm.
+* Lập kế hoạch phát triển dự án.
+* Kiến trúc AWS Serverless.
+* Quy trình hoạt động của hệ thống nhà thuốc trực tuyến.
+* Ứng dụng AI Chatbot trong lĩnh vực y tế.
+* Xác định phạm vi và mục tiêu của dự án.

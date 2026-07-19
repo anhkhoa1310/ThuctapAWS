@@ -1,59 +1,64 @@
 ---
-title: "Worklog Tuần 4"
-date: 2024-01-01
-weight: 1
+title: "Tuần 4"
+date: 2026-05-18
+weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
 
 ### Mục tiêu tuần 4:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Tiếp tục học các Module AWS trong chương trình First Cloud AI Journey.
+* Hoàn thành các bài thực hành Hands-on Lab về dịch vụ tính toán, lưu trữ, mạng và Serverless.
+* Thực hành sử dụng Amazon EC2, Amazon S3, Amazon VPC, AWS Lambda và Amazon API Gateway.
+* Hiểu được cách các dịch vụ AWS phối hợp với nhau để xây dựng hệ thống Cloud hiện đại.
+* Chuẩn bị kiến thức để bước sang giai đoạn phân tích và thiết kế dự án.
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+### Công việc thực hiện trong tuần:
 
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
+| Thứ Hai | Học về Amazon EC2, các loại Instance, Security Group, Key Pair và cách quản lý máy chủ trên AWS. | 11/05/2026 | 11/05/2026 | AWS Skill Builder |
+| Thứ Ba | Thực hiện Hands-on Lab tạo và quản lý EC2 Instance, cấu hình Security Group và kết nối máy chủ bằng SSH. | 12/05/2026 | 12/05/2026 | FCAJ Hands-on Lab |
+| Thứ Tư | Tìm hiểu Amazon S3, cách tạo Bucket, quản lý Object, Versioning, Lifecycle và phân quyền truy cập dữ liệu. | 13/05/2026 | 13/05/2026 | AWS Documentation |
+| Thứ Năm | Học Amazon VPC, AWS Lambda và Amazon API Gateway. Thực hành xây dựng API Serverless đơn giản thông qua Hands-on Lab. | 14/05/2026 | 14/05/2026 | AWS Skill Builder |
+| Thứ Sáu | Tổng hợp các bài Hands-on Lab đã hoàn thành, hệ thống lại kiến thức về các dịch vụ AWS và trao đổi với Mentor về khả năng áp dụng vào dự án thực tập. | 15/05/2026 | 15/05/2026 | Mentor Guidance |
 
-### Kết quả đạt được tuần 4:
+### Kết quả đạt được trong tuần:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Hoàn thành các Module AWS liên quan đến:
+  * Amazon EC2.
+  * Amazon S3.
+  * Amazon VPC.
+  * AWS Lambda.
+  * Amazon API Gateway.
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* Hoàn thành các bài thực hành Hands-on Lab về:
+  * Khởi tạo và quản lý EC2 Instance.
+  * Cấu hình Security Group.
+  * Quản lý dữ liệu trên Amazon S3.
+  * Xây dựng AWS Lambda Function cơ bản.
+  * Tạo API đơn giản bằng Amazon API Gateway.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* Hiểu được mối liên hệ giữa các dịch vụ tính toán, lưu trữ, mạng và Serverless trên nền tảng AWS.
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+* Nâng cao kỹ năng triển khai và quản lý tài nguyên Cloud thông qua các bài thực hành.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* Hiểu cách kết hợp các dịch vụ AWS để xây dựng một hệ thống Cloud có khả năng mở rộng và dễ quản lý.
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
+* Trao đổi với Mentor về việc áp dụng các dịch vụ AWS vào đề tài:
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+  **Website Nhà Thuốc Online & Hệ Thống Chatbot AI Tư Vấn Y Tế dựa trên AWS Serverless.**
 
+* Hoàn thành giai đoạn học nền tảng AWS và sẵn sàng chuyển sang giai đoạn phân tích, thiết kế và phát triển dự án.
 
+### Kiến thức đạt được:
+
+* Amazon EC2.
+* Amazon S3.
+* Amazon VPC.
+* AWS Lambda.
+* Amazon API Gateway.
+* Kiến trúc Serverless.
+* Kiến thức cơ bản về mạng trên AWS.
+* Kỹ năng thực hành Hands-on Lab trên nền tảng AWS.

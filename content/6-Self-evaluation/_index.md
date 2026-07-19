@@ -1,39 +1,62 @@
 ---
 title: "Self-Assessment"
-date: 2024-01-01
+date: 2026-07-08
 weight: 6
 chapter: false
 pre: " <b> 6. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
+{{% notice info %}}
+📄 **Overview:** This section presents my self-assessment after completing the 12-week internship at **First Cloud AI Journey (FCAJ)**. It reflects my learning process, technical development, teamwork, work attitude, and the experience I gained while participating in training activities and developing the project **"Pharmacy Management Website, Online Medicine Sales Platform and Customer Consultation Chatbot."**
 {{% /notice %}}
 
-During my internship at **[Company/Organization Name]** from **[start date]** to **[end date]**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
-I participated in **[briefly describe the main project or task]**, through which I improved my skills in **[list skills: programming, analysis, reporting, communication, etc.]**.  
+Throughout my internship at **First Cloud AI Journey (FCAJ)** from **11 May 2026** to **31 July 2026**, I had the opportunity to participate in a professional training environment where I learned cloud computing fundamentals, attended technical workshops, completed technical blog assignments, and developed a real-world software project.
 
-In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.
+During the internship, I worked with my teammates to develop the project **"Pharmacy Management Website, Online Medicine Sales Platform and Customer Consultation Chatbot."** I participated in requirement analysis, database design, user interface planning, backend development, testing, debugging, documentation, and final project presentation.
 
-To objectively reflect on my internship period, I would like to evaluate myself based on the following criteria:
+Besides improving my technical knowledge in **ASP.NET Core MVC**, **SQL Server**, **Entity Framework Core**, **GitHub**, and software development processes, I also strengthened my teamwork, communication, time management, documentation, and problem-solving skills through practical experience.
 
-| No. | Criteria                            | Description                                                                                      | Good | Fair | Average |
-| --- | ----------------------------------- | ------------------------------------------------------------------------------------------------ | ---- | ---- | ------- |
-| 1   | **Professional knowledge & skills** | Understanding of the field, applying knowledge in practice, proficiency with tools, work quality | ✅    | ☐    | ☐       |
-| 2   | **Ability to learn**                | Ability to absorb new knowledge and learn quickly                                                | ☐    | ✅    | ☐       |
-| 3   | **Proactiveness**                   | Taking initiative, seeking out tasks without waiting for instructions                            | ✅    | ☐    | ☐       |
-| 4   | **Sense of responsibility**         | Completing tasks on time and ensuring quality                                                    | ✅    | ☐    | ☐       |
-| 5   | **Discipline**                      | Adhering to schedules, rules, and work processes                                                 | ☐    | ☐    | ✅       |
-| 6   | **Progressive mindset**             | Willingness to receive feedback and improve oneself                                              | ☐    | ✅    | ☐       |
-| 7   | **Communication**                   | Presenting ideas and reporting work clearly                                                      | ☐    | ✅    | ☐       |
-| 8   | **Teamwork**                        | Working effectively with colleagues and participating in teams                                   | ✅    | ☐    | ☐       |
-| 9   | **Professional conduct**            | Respecting colleagues, partners, and the work environment                                        | ✅    | ☐    | ☐       |
-| 10  | **Problem-solving skills**          | Identifying problems, proposing solutions, and showing creativity                                | ☐    | ✅    | ☐       |
-| 11  | **Contribution to project/team**    | Work effectiveness, innovative ideas, recognition from the team                                  | ✅    | ☐    | ☐       |
-| 12  | **Overall**                         | General evaluation of the entire internship period                                               | ✅    | ☐    | ☐       |
+Throughout the internship, I always tried to complete assigned tasks on time, actively discussed technical issues with teammates and mentors, accepted feedback positively, and continuously improved my work quality.
 
-### Needs Improvement
+To objectively evaluate my internship performance, I would like to assess myself based on the following criteria.
 
-* Strengthen discipline and strictly comply with the rules and regulations of the company or any organization  
-* Improve problem-solving thinking  
-* Enhance communication skills in both daily interactions and professional contexts, including handling situations effectively
+| No. | Criteria | Description | Excellent | Good | Fair |
+| --- | -------------------------------- | ----------------------------------------------------------------------------- | :---: | :---: | :---: |
+| 1 | **Professional knowledge & skills** | Applying technical knowledge, programming ability, software development skills | ✅ | ☐ | ☐ |
+| 2 | **Learning ability** | Quickly learning new technologies and adapting to the working environment | ✅ | ☐ | ☐ |
+| 3 | **Proactiveness** | Taking initiative in assigned tasks and self-learning | ✅ | ☐ | ☐ |
+| 4 | **Responsibility** | Completing assigned tasks on schedule with good quality | ✅ | ☐ | ☐ |
+| 5 | **Discipline** | Following internship regulations and working professionally | ☐ | ✅ | ☐ |
+| 6 | **Continuous improvement** | Accepting feedback and continuously improving myself | ✅ | ☐ | ☐ |
+| 7 | **Communication** | Reporting progress, discussing ideas and presenting clearly | ☐ | ✅ | ☐ |
+| 8 | **Teamwork** | Collaborating effectively with teammates and mentor | ✅ | ☐ | ☐ |
+| 9 | **Professional attitude** | Respecting teammates, mentor and workplace regulations | ✅ | ☐ | ☐ |
+| 10 | **Problem-solving skills** | Identifying issues, analyzing causes and proposing solutions | ☐ | ✅ | ☐ |
+| 11 | **Contribution to the project** | Completing assigned modules and supporting the team | ✅ | ☐ | ☐ |
+| 12 | **Overall evaluation** | Overall performance during the internship | ✅ | ☐ | ☐ |
+
+## Strengths
+
+- Quickly adapted to the internship environment and development process.
+- Completed assigned tasks responsibly and on schedule.
+- Improved software development skills through practical project implementation.
+- Worked effectively with teammates during analysis, development and testing.
+- Actively learned new technologies and accepted mentor feedback.
+- Enhanced technical documentation and presentation skills.
+- Developed better time management and project planning abilities.
+
+## Areas for Improvement
+
+Although I achieved many valuable learning outcomes during the internship, I recognize that there are still several aspects that need further improvement.
+
+- Improve software architecture and system design skills for larger-scale projects.
+- Strengthen problem analysis and optimization techniques when handling complex systems.
+- Gain more practical experience in deploying applications to cloud environments.
+- Improve English communication, especially for reading technical documents and discussing technical topics.
+- Continue learning modern software development technologies and industry best practices.
+
+## Conclusion
+
+The internship at **First Cloud AI Journey** provided me with valuable opportunities to apply academic knowledge in a real working environment. Besides enhancing my programming skills, I also developed important professional competencies such as teamwork, communication, responsibility, documentation, and problem-solving.
+
+Completing the project **"Pharmacy Management Website, Online Medicine Sales Platform and Customer Consultation Chatbot"** marked an important milestone in my learning journey. The experience gained throughout these 12 weeks has built a solid foundation for my future career in software development and information technology.

@@ -1,59 +1,60 @@
 ---
-title: "Worklog Tuần 2"
-date: 2024-01-01
-weight: 1
+title: "Tuần 2"
+date: 2026-05-04
+weight: 2
 chapter: false
 pre: " <b> 1.2. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
 
 ### Mục tiêu tuần 2:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Bắt đầu học các kiến thức nền tảng về Điện toán đám mây (Cloud Computing) và Amazon Web Services (AWS).
+* Tìm hiểu hạ tầng toàn cầu của AWS và các mô hình dịch vụ điện toán đám mây.
+* Hoàn thành các Module AWS Foundation trên AWS Skill Builder.
+* Làm quen với AWS Management Console.
+* Xây dựng nền tảng kiến thức trước khi tham gia các buổi Hands-on Lab.
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+### Công việc thực hiện trong tuần:
 
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
+| Thứ Hai | Học các kiến thức nền tảng về Cloud Computing, bao gồm đặc điểm của điện toán đám mây, mô hình triển khai và mô hình dịch vụ (IaaS, PaaS, SaaS). | 27/04/2026 | 27/04/2026 | AWS Skill Builder |
+| Thứ Ba | Tìm hiểu hạ tầng toàn cầu của AWS gồm Regions, Availability Zones và Edge Locations. | 28/04/2026 | 28/04/2026 | AWS Documentation |
+| Thứ Tư | Hoàn thành các Module nhập môn AWS Cloud Practitioner và làm quen với giao diện AWS Management Console. | 29/04/2026 | 29/04/2026 | AWS Skill Builder |
+| Thứ Năm | Nghiên cứu AWS Well-Architected Framework và AWS Shared Responsibility Model. Tìm hiểu các nguyên tắc bảo mật cơ bản trên nền tảng điện toán đám mây. | 30/04/2026 | 30/04/2026 | AWS Documentation |
+| Thứ Sáu | Tổng hợp kiến thức đã học trong tuần, trao đổi với Mentor về tiến độ học tập và chuẩn bị cho các buổi thực hành Hands-on Lab trong tuần tiếp theo. | 01/05/2026 | 01/05/2026 | Mentor Guidance |
 
-### Kết quả đạt được tuần 2:
+### Kết quả đạt được trong tuần:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Hoàn thành các Module nhập môn AWS.
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* Hiểu được các khái niệm cơ bản của Cloud Computing, bao gồm:
+  * Đặc điểm của điện toán đám mây.
+  * Các mô hình triển khai.
+  * Các mô hình dịch vụ (IaaS, PaaS, SaaS).
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* Nắm được cấu trúc hạ tầng toàn cầu của AWS:
+  * AWS Regions.
+  * Availability Zones.
+  * Edge Locations.
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+* Làm quen với AWS Management Console và cách tổ chức các tài nguyên trên AWS.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* Hiểu được mô hình AWS Shared Responsibility Model và vai trò của bảo mật trong môi trường điện toán đám mây.
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
+* Tìm hiểu sáu trụ cột của AWS Well-Architected Framework và ý nghĩa của chúng trong việc xây dựng hệ thống Cloud ổn định, an toàn và tối ưu.
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* Xây dựng nền tảng kiến thức vững chắc trước khi tham gia các bài thực hành Hands-on Lab.
 
+* Chuẩn bị đầy đủ kiến thức để tiếp tục học các dịch vụ AWS nâng cao trong các tuần tiếp theo.
 
+### Kiến thức đạt được:
+
+* Kiến thức nền tảng về Cloud Computing.
+* Hạ tầng toàn cầu của AWS.
+* AWS Management Console.
+* AWS Shared Responsibility Model.
+* AWS Well-Architected Framework.
+* Các mô hình triển khai Cloud.
+* Các mô hình dịch vụ Cloud.
+* Kiến thức cơ bản về bảo mật trên nền tảng AWS.

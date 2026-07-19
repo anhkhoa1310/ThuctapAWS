@@ -1,57 +1,60 @@
 ---
-title: "Week 2 Worklog"
-date: 2024-01-01
-weight: 1
+title: "Week 2"
+date: 2026-05-04
+weight: 2
 chapter: false
 pre: " <b> 1.2. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
-
 
 ### Week 2 Objectives:
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Begin learning the fundamentals of Cloud Computing and Amazon Web Services (AWS).
+* Understand AWS global infrastructure and cloud service models.
+* Complete the introductory AWS Skill Builder learning modules.
+* Become familiar with the AWS Management Console.
+* Build a strong foundation before participating in hands-on laboratories.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
+| Monday | Study the fundamentals of Cloud Computing, including cloud characteristics, deployment models, and service models (IaaS, PaaS, SaaS). | 27/04/2026 | 27/04/2026 | AWS Skill Builder |
+| Tuesday | Learn about AWS Global Infrastructure, including Regions, Availability Zones, and Edge Locations. | 28/04/2026 | 28/04/2026 | AWS Documentation |
+| Wednesday | Complete the AWS Cloud Practitioner introductory learning modules and explore the AWS Management Console interface. | 29/04/2026 | 29/04/2026 | AWS Skill Builder |
+| Thursday | Study the AWS Well-Architected Framework and AWS Shared Responsibility Model. Review security best practices in cloud environments. | 30/04/2026 | 30/04/2026 | AWS Documentation |
+| Friday | Summarize the knowledge learned during the week, discuss the learning progress with the mentor, and prepare for the upcoming Hands-on Labs. | 01/05/2026 | 01/05/2026 | Mentor Guidance |
 
 ### Week 2 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Successfully completed the AWS introductory learning modules.
 
-* Successfully created and configured an AWS Free Tier account.
+* Understood the basic concepts of Cloud Computing, including:
+  * Cloud characteristics.
+  * Cloud deployment models.
+  * Cloud service models (IaaS, PaaS, SaaS).
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+* Learned the structure of AWS Global Infrastructure:
+  * AWS Regions.
+  * Availability Zones.
+  * Edge Locations.
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+* Became familiar with the AWS Management Console and learned how cloud resources are organized.
 
-* Used AWS CLI to perform basic operations such as:
+* Understood the AWS Shared Responsibility Model and the importance of security in cloud environments.
 
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
+* Learned the six pillars of the AWS Well-Architected Framework and their importance in designing reliable cloud applications.
 
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* Built a solid theoretical foundation before participating in practical Hands-on Labs.
+
+* Prepared the necessary cloud knowledge for the following technical training sessions.
+
+### Knowledge Gained:
+
+* Fundamentals of Cloud Computing.
+* AWS Global Infrastructure.
+* AWS Management Console.
+* AWS Shared Responsibility Model.
+* AWS Well-Architected Framework.
+* Cloud deployment models.
+* Cloud service models.
+* Basic cloud security concepts.

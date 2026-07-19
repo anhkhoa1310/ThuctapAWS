@@ -1,58 +1,57 @@
 ---
-title: "Worklog Tuần 12"
-date: 2024-01-01
-weight: 2
+title: "Tuần 12"
+date: 2026-07-13
+weight: 12
 chapter: false
-pre: " <b> 1.12 </b> "
+pre: " <b> 1.12. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 ### Mục tiêu tuần 12:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Hoàn thành toàn bộ sản phẩm thực tập.
+* Hoàn thiện báo cáo thực tập và tài liệu kỹ thuật.
+* Chuẩn bị slide báo cáo và demo hệ thống.
+* Tổng kết quá trình thực tập cùng Mentor.
+* Hoàn thành chương trình thực tập và nhận đánh giá cuối kỳ.
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+### Công việc thực hiện trong tuần:
 
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
+| Thứ Hai | Rà soát toàn bộ các chức năng của hệ thống, kiểm tra tính ổn định và thực hiện kiểm thử cuối cùng trước khi bàn giao dự án. | 06/07/2026 | 06/07/2026 | Project Documentation |
+| Thứ Ba | Hoàn thiện báo cáo thực tập, tài liệu kỹ thuật, hướng dẫn triển khai và cập nhật sơ đồ kiến trúc hệ thống. | 07/07/2026 | 07/07/2026 | Internship Report Template |
+| Thứ Tư | Chuẩn bị slide báo cáo, xây dựng kịch bản demo và luyện tập thuyết trình dự án. | 08/07/2026 | 08/07/2026 | Presentation Materials |
+| Thứ Năm | Báo cáo dự án với Mentor, tiếp nhận góp ý và hoàn thiện các nội dung còn thiếu theo đánh giá. | 09/07/2026 | 09/07/2026 | Mentor Guidance |
+| Thứ Sáu | Nộp toàn bộ sản phẩm thực tập, hoàn thành đánh giá cuối kỳ, tổng kết quá trình thực tập và kết thúc chương trình thực tập. | 10/07/2026 | 10/07/2026 | Internship Guidelines |
 
-### Kết quả đạt được tuần 12:
+### Kết quả đạt được trong tuần:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Hoàn thành **Website Nhà Thuốc Online & Hệ Thống Chatbot AI Tư Vấn Y Tế dựa trên AWS Serverless**.
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* Kiểm tra và xác nhận toàn bộ các chức năng của hệ thống, bao gồm:
+  * Xác thực người dùng.
+  * Quản lý thuốc.
+  * Đặt mua thuốc trực tuyến.
+  * Chatbot AI tư vấn y tế.
+  * Hệ thống AWS Serverless.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* Hoàn thiện báo cáo thực tập và toàn bộ tài liệu kỹ thuật của dự án.
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+* Chuẩn bị đầy đủ slide và hoàn thành buổi báo cáo, demo hệ thống.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* Tiếp nhận góp ý từ Mentor và hoàn thiện sản phẩm trước khi kết thúc thực tập.
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
+* Hoàn thành đầy đủ các yêu cầu của chương trình thực tập và nộp toàn bộ sản phẩm đúng thời hạn.
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* Tổng kết quá trình thực tập, tích lũy thêm nhiều kinh nghiệm thực tế về phát triển ứng dụng Cloud, AI và AWS Serverless.
 
+### Kiến thức đạt được:
 
+* Quy trình phát triển phần mềm hoàn chỉnh.
+* Kỹ năng viết báo cáo kỹ thuật.
+* Kỹ năng thuyết trình và demo sản phẩm.
+* Triển khai và vận hành hệ thống trên Cloud.
+* Kiến trúc ứng dụng AWS Serverless.
+* Phát triển ứng dụng tích hợp AI.
+* Kỹ năng làm việc nhóm và giao tiếp trong môi trường doanh nghiệp.
+* Kinh nghiệm thực tế trong quy trình phát triển phần mềm.

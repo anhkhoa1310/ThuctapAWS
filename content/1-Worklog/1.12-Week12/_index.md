@@ -1,57 +1,57 @@
 ---
-title: "Week 12 Worklog"
-date: 2024-01-01
-weight: 2
+title: "Week 12"
+date: 2026-07-13
+weight: 12
 chapter: false
 pre: " <b> 1.12. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
-
 
 ### Week 12 Objectives:
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Complete all internship deliverables.
+* Finalize the internship report and project documentation.
+* Prepare the project presentation and system demonstration.
+* Review the entire internship journey with the mentor.
+* Complete the internship program and receive final evaluation.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
+| Monday | Review all project modules, verify system stability, and perform final testing before project submission. | 06/07/2026 | 06/07/2026 | Project Documentation |
+| Tuesday | Complete the internship report, technical documentation, deployment guide, and update project diagrams. | 07/07/2026 | 07/07/2026 | Internship Report Template |
+| Wednesday | Prepare the project presentation slides, demonstration scenarios, and rehearse the final presentation. | 08/07/2026 | 08/07/2026 | Presentation Materials |
+| Thursday | Present the project to the mentor, receive feedback, and make final adjustments based on the evaluation. | 09/07/2026 | 09/07/2026 | Mentor Guidance |
+| Friday | Submit all internship deliverables, complete the internship evaluation, summarize the internship experience, and officially conclude the internship program. | 10/07/2026 | 10/07/2026 | Internship Guidelines |
 
 ### Week 12 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Successfully completed the **Online Pharmacy Website & AI Medical Consultation Chatbot System based on AWS Serverless**.
 
-* Successfully created and configured an AWS Free Tier account.
+* Verified the complete system, including:
+  * User Authentication.
+  * Medicine Management.
+  * Online Medicine Ordering.
+  * AI Medical Consultation Chatbot.
+  * AWS Serverless Infrastructure.
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+* Completed the internship report and all required technical documentation.
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+* Prepared and completed the final project presentation.
 
-* Used AWS CLI to perform basic operations such as:
+* Successfully demonstrated the system to the mentor and received valuable feedback.
 
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
+* Completed all internship requirements and submitted the final deliverables.
 
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* Concluded the internship program with valuable practical experience in Cloud Computing, AI, and AWS Serverless application development.
+
+### Knowledge Gained:
+
+* End-to-end software development lifecycle.
+* Technical report writing.
+* Project presentation skills.
+* Software deployment and maintenance.
+* Cloud application architecture.
+* AI application development.
+* Professional teamwork and communication.
+* Real-world software engineering practices.

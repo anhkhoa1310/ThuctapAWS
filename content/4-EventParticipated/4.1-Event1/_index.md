@@ -1,126 +1,102 @@
 ---
 title: "Event 1"
-date: 2024-01-01
+date: 2026-05-30
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
+# Event Report: "AWS FIRST CLOUD AI JOURNEY MEET UP"
 
-# Summary Report: “GenAI-powered App-DB Modernization workshop”
+### Event Information
+
+| Information | Details |
+| :--- | :--- |
+| **Event Name** | AWS FIRST CLOUD AI JOURNEY MEET UP |
+| **Date & Time** | 09:00, May 30, 2026 |
+| **Location** | 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Ben Nghe Ward, District 1, Ho Chi Minh City |
+| **Role** | Attendee |
 
 ### Event Objectives
+* **Community Bonding:** Creating a vibrant space for networking, knowledge sharing, and exchanging hands-on experiences between cloud engineers and tech-savvy students in the AWS community in Vietnam.
+* **Removing Cost Barriers:** Introducing optimized learning pathways and alternative tools to help beginners confidently practice on AWS without the constant anxiety of unexpected billing costs.
+* **Embracing Tech Trends:** Showcasing practical case studies of integrating Generative AI into cloud infrastructure to optimize system operations, workflow efficiency, and project management.
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+### Speaker Lineup
+* **Huỳnh Thái Linh** - Sharing gamified cloud learning methodologies and open-source AWS simulation tools (Cloud Quest & Floci).
+* **Team Khương (Huỳnh An Khương, Mai Quốc Anh, Nguyễn Trần Minh Quân)** - Sharing their intense 36-hour hackathon journey building UTMorpho at LotusHacks.
+* **Nguyễn Thị Quỳnh Như** - Discussing self-positioning and strategies to build sustainable confidence in tech.
+* **Trần Hữu Nghĩa** - Deconstructing the serverless cloud architecture of "Tử Vi Đại Việt", an innovative platform powered by AWS & AI Agents.
+* **Trần Minh Quân** - Deep diving into the hidden pitfalls of system design and cultivating a robust DevOps mindset.
+* **Khắc Uy Phạm** - Unpacking the psychology of behavior and overcoming the procrastination loop.
 
-### Speakers
+---
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+### Key Presentation Highlights
 
-### Key Highlights
+#### 1. Level Up Your AWS Skills with Cloud Quest and Floci (Speaker: Huỳnh Thái Linh)
+This session addressed the biggest psychological block for AWS beginners: **The fear of unexpected billing and forgetting to clean up active resources after practicing.**
+* **AWS Cloud Quest:** An interactive 3D role-playing game where learners solve real-world technical problems through engaging virtual missions rather than reading dry, exhaustive documentation.
+* **Floci - Open-Source Local AWS Emulator:** A tool that enables developers to build, test, and mock AWS architectures directly on their local machines with absolutely zero cost.
+* **Floci vs. LocalStack Performance Comparison:**
+  * *Startup Speed:* Floci is exceptionally optimized, starting up to **138 times faster**.
+  * *Hardware Resources:* It uses memory **11 times more efficiently** (lower RAM footprint).
+  * *Free Tier Offerings:* Provides more comprehensive core services out of the box compared to the restricted community version of LocalStack.
+* **Recommended Learning Pathway:**
+* *Phase 1:* Build foundational cloud architecture thinking using AWS Cloud Quest.
+  * *Phase 2:* Write code and optimize cloud-native configurations locally with Floci to eliminate any financial barriers.
+  * *Phase 3:* Go live and deploy onto the real AWS ecosystem with absolute confidence.
 
-#### Identifying the drawbacks of legacy application architecture
+#### 2. Hackathon Journey – “HA! A tons, of fun” (Speakers: Team Khương)
+* A breakdown of the exhausting yet exhilarating 36-hour sprint at LotusHacks to build **UTMorpho** — an AI Agent enabling direct, real-time user interface (UI) creation and editing on a WYSIWYG canvas, fixing the common issue of visual inconsistency found in standard AI prompting.
+* Showcasing two practical projects that reached the Top 10 AWS Track: **SynthHunter** (An AI-driven voice authentication system detecting deepfakes to prevent fraud) and **Vortex** (An automated recruitment pipeline designed to reduce candidate interview anxiety).
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+#### 3. Cultivating Confidence in the Tech Ecosystem (Speaker: Nguyễn Thị Quỳnh Như)
+* Analyzing the reality where many talented tech professionals are overlooked due to public speaking anxiety and a lack of self-presentation skills.
+* Redefining true confidence: It is not about having all the answers before you begin, but rather the courage to act, take ownership, and show up even when you feel nervous.
+* Utilizing the "5-Second Rule" to overcome Impostor Syndrome and navigate through the "valley of despair" of the Dunning-Kruger effect.
 
-#### Transitioning to modern application architecture – Microservices
+#### 4. AI Agent & AWS Integration in "Tử Vi Đại Việt" (Speaker: Trần Hữu Nghĩa)
+* A fascinating case study demonstrating how traditional Oriental astrology can be digitized using modern cloud technology, serving personalized experiences to thousands of users simultaneously.
+* **Optimized Serverless Architecture on AWS:** The system operates seamlessly by orchestrating Amazon Bedrock (Foundation models), AWS Lambda, API Gateway, DynamoDB, S3, and CloudFront CDN, ensuring cost efficiency and automatic scaling based on real-time traffic spikes.
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+#### 5. DevOps Mindset and Behavioral Psychology (Speakers: Trần Minh Quân & Khắc Uy Phạm)
+* **The Reality of DevOps:** Utilizing the iceberg model to demonstrate that visible technical symptoms like missed deadlines or production bugs actually stem from hidden procedural and communication gaps. DevOps is fundamentally about People, Process, and Culture rather than just automated tools.
+* **Overcoming Procrastination:** Viewing procrastination not as laziness, but as an emotional management issue (fear of failure or judgment). The solution lies in the "5-Minute Rule" — breaking tasks down into the smallest possible action to build initial momentum and bypass mental friction.
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
-
-#### Domain-Driven Design (DDD)
-
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
-
-#### Event-Driven Architecture
-
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
-
-#### Compute Evolution
-
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
-
-#### Amazon Q Developer
-
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
+---
 
 ### Key Takeaways
 
-#### Design Mindset
+#### On Mindset & Soft Skills
+* **Deep Learning through Observation:** Listening to the speakers handle complex technical topics and engage with the crowd gave me a fresh perspective on effective communication. Explaining intricate technical architectures in an accessible manner requires a very deep, fundamental understanding of the core tech.
+* **Compounding Small Wins:** High-performing architectures and professional confidence do not appear overnight. They are the cumulative result of taking tiny steps, stepping outside of one's comfort zone, and continuously iterating every day.
 
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
+#### On Technical Architecture
+* Acquired a strong architectural mindset regarding serverless applications, learning how to pair Generative AI orchestrations (Amazon Bedrock) with managed services to balance cost-efficiency with high availability.
+* Developed a clearer appreciation for fast feedback loops and automation pipelines (CI/CD, IaC) within a true DevOps culture, moving beyond treating DevOps as just a collection of software tools.
 
-#### Technical Architecture
+---
 
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
+### Personal Application & Action Plan
+* **Optimizing Local Labs:** Integrating AWS Cloud Quest and Floci into my personal research workflow to freely experiment and prototype complex cloud environments without financial stress.
+* **Defeating Procrastination:** Implementing the 5-Minute Rule to tackle intimidating code or system configuration bottlenecks during my internship. Breaking massive milestones down into micro-tasks to maintain continuous momentum.
+* **Solving Real-World Problems:** Developing a proactive habit of looking for process optimization opportunities within my daily internship routines by dissecting existing workflow inefficiencies.
 
-#### Modernization Strategy
+---
 
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
+### Event Reflection & Experience
 
-### Applying to Work
+Attending this Meet Up was an incredibly enriching learning opportunity that provided me with valuable tech insights and fresh career perspectives:
 
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
+#### Expanding Horizons & Tech Insights
+* Listening to industry peers share alternative approaches to mastering cloud concepts (such as gamification and lightweight local emulation) completely transformed my learning strategy. It demystified cloud experimentation and gave me the practical toolset needed to practice more frequently at home.
 
-### Event Experience
+#### Multidimensional Networking Space
+* What I appreciated most about the workshop was its perfect balance between deep technical topics (AWS, AI Agents, DevOps) and real-world behavioral science. The open, welcoming atmosphere allowed me to easily engage, ask questions, and learn from the actual engineering triumphs and struggles of industry mentors and peers.
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
-
-#### Learning from highly skilled speakers
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
-
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
-
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
-
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
-
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
-
-#### Some event photos
-*Add your event photos here*  
-
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
+#### Event Gallery
+<img src="/images/4-EventParticipated/4.1-Event1/anh1.jpg" alt="Event Image 1" width="800px">
+<img src="/images/4-EventParticipated/4.1-Event1/anh2.jpg" alt="Event Image 2" width="800px">
+<img src="/images/4-EventParticipated/4.1-Event1/anh3.jpg" alt="Event Image 3" width="800px">
+> To me, the AWS First Cloud AI Journey Meet Up was far more than a standard tech seminar; it acted as a vital catalyst that helped refine both my cloud engineering perspective and essential soft skills, keeping me motivated and confident on my professional journey.

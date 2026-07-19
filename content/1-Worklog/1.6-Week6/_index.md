@@ -1,57 +1,64 @@
 ---
-title: "Week 6 Worklog"
-date: 2024-01-01
-weight: 1
+title: "Week 6"
+date: 2026-06-01
+weight: 6
 chapter: false
 pre: " <b> 1.6. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
-
 
 ### Week 6 Objectives:
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Design the overall architecture of the Online Pharmacy Website & AI Medical Consultation Chatbot System.
+* Create the system use case diagram and identify user interactions.
+* Design the database schema and relationships.
+* Define the RESTful API structure for the backend.
+* Prepare the technical documents before the implementation phase.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
+| Monday | Design the overall system architecture based on AWS Serverless services, including frontend, backend, database, AI chatbot, monitoring, and notification components. | 25/05/2026 | 25/05/2026 | AWS Architecture Diagram |
+| Tuesday | Analyze system actors and create the Use Case Diagram for Customer, Pharmacist, and Administrator. | 26/05/2026 | 26/05/2026 | UML Documentation |
+| Wednesday | Design the relational database schema, define tables, primary keys, foreign keys, and relationships for the pharmacy management system. | 27/05/2026 | 27/05/2026 | MySQL Documentation |
+| Thursday | Design RESTful APIs for user authentication, medicine management, order processing, AI chatbot integration, and customer management. | 28/05/2026 | 28/05/2026 | REST API Design Guide |
+| Friday | Review the overall system design with the mentor, revise the architecture if necessary, and finalize the design documents before development. | 29/05/2026 | 29/05/2026 | Mentor Guidance |
 
 ### Week 6 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Successfully completed the overall architecture design for the internship project.
 
-* Successfully created and configured an AWS Free Tier account.
+* Designed the AWS Serverless architecture using:
+  * AWS Amplify.
+  * Amazon Cognito.
+  * Amazon API Gateway.
+  * AWS Lambda.
+  * Amazon RDS.
+  * Amazon S3.
+  * Amazon Bedrock.
+  * Amazon OpenSearch Serverless.
+  * Amazon CloudWatch.
+  * Amazon SNS.
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+* Completed the Use Case Diagram for the system.
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+* Identified the responsibilities of each user role:
+  * Customer.
+  * Pharmacist.
+  * Administrator.
 
-* Used AWS CLI to perform basic operations such as:
+* Designed the relational database structure, including tables, relationships, and constraints.
 
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
+* Defined the RESTful API endpoints required for system implementation.
 
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* Completed the technical design documentation and prepared for the implementation phase.
+
+### Knowledge Gained:
+
+* AWS Serverless system architecture.
+* UML Use Case Diagram.
+* Relational database design.
+* RESTful API design.
+* Software architecture planning.
+* Backend system analysis.
+* Technical documentation.
