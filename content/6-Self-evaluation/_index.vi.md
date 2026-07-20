@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-{{% notice info %}}
-📄 **Tổng quan:** Phần này trình bày quá trình tự đánh giá sau khi hoàn thành chương trình thực tập **12 tuần** tại **First Cloud AI Journey (FCAJ)**. Nội dung phản ánh những kiến thức, kỹ năng, thái độ làm việc và kinh nghiệm mà em đã tích lũy được thông qua quá trình học tập, tham gia các hoạt động đào tạo và thực hiện đề tài **"Website quản lý nhà thuốc, bán thuốc trực tuyến và chatbot tư vấn khách hàng"**.
-{{% /notice %}}
+
 
 Trong thời gian thực tập tại **First Cloud AI Journey (FCAJ)** từ **11/05/2026** đến **31/07/2026**, em đã có cơ hội được học tập và làm việc trong môi trường chuyên nghiệp. Chương trình thực tập không chỉ giúp em tiếp cận với các kiến thức về điện toán đám mây (Cloud Computing), AWS mà còn tạo điều kiện để em tham gia các Workshop, thực hiện các bài Blog kỹ thuật và phát triển một dự án phần mềm hoàn chỉnh.
 

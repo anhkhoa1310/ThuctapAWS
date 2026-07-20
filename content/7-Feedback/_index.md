@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-{{% notice info %}}
-📄 **Overview:** This section contains my personal reflections and feedback after completing the 12-week internship at **First Cloud AI Journey (FCAJ)**. The opinions below are based on my own learning experience and are intended to contribute constructive suggestions for improving future internship programs.
-{{% /notice %}}
+
 
 # Sharing and Feedback
 

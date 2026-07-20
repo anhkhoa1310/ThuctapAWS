@@ -6,9 +6,6 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-{{% notice info %}}
-📄 **Tổng quan:** Đây là những chia sẻ và cảm nhận của em sau khi hoàn thành chương trình thực tập **First Cloud AI Journey (FCAJ)** trong thời gian 12 tuần. Những ý kiến dưới đây được đưa ra dựa trên trải nghiệm thực tế của bản thân, đồng thời là những góp ý nhằm giúp chương trình ngày càng hoàn thiện và mang lại nhiều giá trị hơn cho các khóa thực tập sau.
-{{% /notice %}}
 
 
 

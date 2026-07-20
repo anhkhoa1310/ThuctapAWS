@@ -6,9 +6,6 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-{{% notice info %}}
-📖 **Overview:** This section summarizes my 12-week internship journey in the **First Cloud AI Journey** program. During the internship, I completed AWS learning modules, participated in hands-on laboratory exercises, attended technical workshops, and developed my internship project entitled **"Online Pharmacy Website & AI Medical Consultation Chatbot System based on AWS Serverless."** Each weekly worklog records the objectives, tasks, achievements, and knowledge gained throughout the internship.
-{{% /notice %}}
 
 # Internship Timeline
 

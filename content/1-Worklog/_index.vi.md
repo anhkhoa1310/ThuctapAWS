@@ -6,9 +6,6 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-{{% notice info %}}
-📖 **Tổng quan:** Phần này tóm tắt hành trình thực tập kéo dài 12 tuần của tôi tại chương trình **First Cloud AI Journey**. Trong suốt quá trình thực tập, tôi đã hoàn thành các mô-đun học tập trên AWS, tham gia các buổi thực hành (Hands-on Labs), tham dự các hội thảo chuyên môn và phát triển đồ án **"Website Nhà Thuốc Online & Hệ Thống Chatbot AI Tư Vấn Y Tế dựa trên AWS Serverless."** Mỗi nhật ký hằng tuần ghi lại mục tiêu, công việc thực hiện, kết quả đạt được và những kiến thức tích lũy trong suốt quá trình thực tập.
-{{% /notice %}}
 
 # Lộ trình thực tập
 

@@ -6,9 +6,6 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-{{% notice info %}}
-📄 **Overview:** This section presents my self-assessment after completing the 12-week internship at **First Cloud AI Journey (FCAJ)**. It reflects my learning process, technical development, teamwork, work attitude, and the experience I gained while participating in training activities and developing the project **"Pharmacy Management Website, Online Medicine Sales Platform and Customer Consultation Chatbot."**
-{{% /notice %}}
 
 Throughout my internship at **First Cloud AI Journey (FCAJ)** from **11 May 2026** to **31 July 2026**, I had the opportunity to participate in a professional training environment where I learned cloud computing fundamentals, attended technical workshops, completed technical blog assignments, and developed a real-world software project.
 
