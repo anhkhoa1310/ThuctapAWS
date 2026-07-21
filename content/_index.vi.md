@@ -7,10 +7,6 @@ chapter: false
 
 # Báo cáo thực tập
 
-{{% notice info %}}
-📄 **Giới thiệu:** Đây là báo cáo tổng hợp toàn bộ quá trình thực tập của em tại **First Cloud AI Journey (FCAJ)**. Nội dung báo cáo trình bày quá trình học tập, các công việc đã thực hiện, đề tài phát triển, các bài viết kỹ thuật, workshop đã tham gia cũng như những kiến thức và kinh nghiệm tích lũy được trong suốt 12 tuần thực tập.
-{{% /notice %}}
-
 ## Thông tin sinh viên
 
 &emsp; **Họ và tên:** Huỳnh Anh Khoa
