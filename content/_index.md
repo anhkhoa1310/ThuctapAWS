@@ -28,13 +28,13 @@ chapter: false
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-emsp; **Company Supervisor:** Nguyen Gia Hung
+&emsp; **Company Supervisor:** Nguyen Gia Hung
 
-emsp; **Supervisor Email:**  hunggia@amazon.com
+&emsp; **Supervisor Email:**  hunggia@amazon.com
 
-emsp; **Supervisor Phone Number:** 0817870645
+&emsp; **Supervisor Phone Number:** 0817870645
 
-emsp; **Supervisor Position:**  Head of Solution Architect
+&emsp; **Supervisor Position:**  Head of Solution Architect
 
 &emsp; **Internship Duration:** From 17/04/2026 to 30/07/2026
 

@@ -27,13 +27,13 @@ chapter: false
 
 &emsp; **Vị trí thực tập:** Workforce Bootcamp Trainee
 
-emsp; **Người hướng dẫn tại công ty:** Nguyễn Gia Hưng
+&emsp; **Người hướng dẫn tại công ty:** Nguyễn Gia Hưng
 
-emsp; **Email người hướng dẫn:**  hunggia@amazon.com
+&emsp; **Email người hướng dẫn:**  hunggia@amazon.com
 
-emsp; **Số điện thoại người hướng dẫn:** 0817870645
+&emsp; **Số điện thoại người hướng dẫn:** 0817870645
 
-emsp; **Chức vụ người hướng dẫn:**  Head of Solution Architect
+&emsp; **Chức vụ người hướng dẫn:**  Head of Solution Architect
 
 &emsp; **Thời gian thực tập:** Từ ngày **17/04/2026** đến **30/07/2026**
 
