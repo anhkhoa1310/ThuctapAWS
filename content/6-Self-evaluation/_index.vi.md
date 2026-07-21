@@ -8,7 +8,7 @@ pre: " <b> 6. </b> "
 
 
 
-Trong thời gian thực tập tại **First Cloud AI Journey (FCAJ)** từ **11/05/2026** đến **31/07/2026**, em đã có cơ hội được học tập và làm việc trong môi trường chuyên nghiệp. Chương trình thực tập không chỉ giúp em tiếp cận với các kiến thức về điện toán đám mây (Cloud Computing), AWS mà còn tạo điều kiện để em tham gia các Workshop, thực hiện các bài Blog kỹ thuật và phát triển một dự án phần mềm hoàn chỉnh.
+Trong thời gian thực tập tại **First Cloud AI Journey (FCAJ)** từ **17/05/2026** đến **30/07/2026**, em đã có cơ hội được học tập và làm việc trong môi trường chuyên nghiệp. Chương trình thực tập không chỉ giúp em tiếp cận với các kiến thức về điện toán đám mây (Cloud Computing), AWS mà còn tạo điều kiện để em tham gia các Workshop, thực hiện các bài Blog kỹ thuật và phát triển một dự án phần mềm hoàn chỉnh.
 
 Trong giai đoạn thực hiện đồ án, em cùng các thành viên trong nhóm phát triển đề tài **"Website quản lý nhà thuốc, bán thuốc trực tuyến và chatbot tư vấn khách hàng"**. Em đã tham gia vào các công việc như khảo sát yêu cầu, thiết kế cơ sở dữ liệu, xây dựng giao diện, lập trình các chức năng của hệ thống, kiểm thử, sửa lỗi, hoàn thiện tài liệu và trình bày sản phẩm trước Mentor.
 

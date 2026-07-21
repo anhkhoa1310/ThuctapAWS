@@ -17,7 +17,9 @@ chapter: false
 
 &emsp; **Trường:** Trường Đại học Công nghệ TP. Hồ Chí Minh (HUTECH)
 
-&emsp; **Chuyên ngành:** Công nghệ Thông tin
+&emsp; **Khoa:** Công nghệ Thông tin
+
+&emsp; **Ngành:** An toàn thông tin
 
 &emsp; **Lớp thực tập:** 22DTHE7
 
@@ -25,7 +27,15 @@ chapter: false
 
 &emsp; **Vị trí thực tập:** Workforce Bootcamp Trainee
 
-&emsp; **Thời gian thực tập:** Từ ngày **11/05/2026** đến **31/07/2026**
+emsp; **Người hướng dẫn tại công ty:** Nguyễn Gia Hưng
+
+emsp; **Email người hướng dẫn:**  hunggia@amazon.com
+
+emsp; **Số điện thoại người hướng dẫn:** 0817870645
+
+emsp; **Chức vụ người hướng dẫn:**  Head of Solution Architect
+
+&emsp; **Thời gian thực tập:** Từ ngày **17/04/2026** đến **30/07/2026**
 
 ![Ảnh đại diện](/ThuctapAWS/images/avatar.png)
 

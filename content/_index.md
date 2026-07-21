@@ -16,17 +16,30 @@ chapter: false
 
 &emsp; **University:** HO CHI MINH CITY UNIVERSITY OF TECHNOLOGY (HUTECH)
 
-&emsp; **Major:** Information Technology
+&emsp; **Faculty:** Faculty of Information Technology
+
+&emsp; **Major:** Information Security
 
 &emsp; **Class:** 22DTHE7
+
+&emsp; **Academic Supervisor:** MSc. Nguyen Trong Minh Hong Phuoc
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Internship Duration:** From 11/05/2026 to 27/07/2026
+emsp; **Company Supervisor:** Nguyen Gia Hung
+
+emsp; **Supervisor Email:**  hunggia@amazon.com
+
+emsp; **Supervisor Phone Number:** 0817870645
+
+emsp; **Supervisor Position:**  Head of Solution Architect
+
+&emsp; **Internship Duration:** From 17/04/2026 to 30/07/2026
 
 ![Your profile picture](/ThuctapAWS/images/avatar.png)
+
 
 ### Report Content
 

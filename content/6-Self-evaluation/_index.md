@@ -7,7 +7,7 @@ pre: " <b> 6. </b> "
 ---
 
 
-Throughout my internship at **First Cloud AI Journey (FCAJ)** from **11 May 2026** to **31 July 2026**, I had the opportunity to participate in a professional training environment where I learned cloud computing fundamentals, attended technical workshops, completed technical blog assignments, and developed a real-world software project.
+Throughout my internship at **First Cloud AI Journey (FCAJ)** from **17 April 2026** to **30 July 2026**, I had the opportunity to participate in a professional training environment where I learned cloud computing fundamentals, attended technical workshops, completed technical blog assignments, and developed a real-world software project.
 
 During the internship, I worked with my teammates to develop the project **"Pharmacy Management Website, Online Medicine Sales Platform and Customer Consultation Chatbot."** I participated in requirement analysis, database design, user interface planning, backend development, testing, debugging, documentation, and final project presentation.
 
