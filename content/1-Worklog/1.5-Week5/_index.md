@@ -8,57 +8,38 @@ pre: " <b> 1.5. </b> "
 
 ### Week 5 Objectives:
 
-* Begin the internship project implementation phase.
-* Analyze the project requirements and identify the core system functionalities.
-* Research the AWS services required for the project architecture.
-* Study similar online pharmacy systems to gather practical ideas.
-* Define the overall system scope and development roadmap.
+* Continue learning advanced AWS services related to databases and storage.
+* Understand Amazon RDS and database deployment in cloud environments.
+* Learn backup, security, and database connectivity on AWS.
+* Prepare the database foundation for the internship project.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
-| Monday | Meet with the mentor to discuss the internship project objectives, project scope, expected deliverables, and development schedule. | 18/05/2026 | 18/05/2026 | Mentor Guidance |
-| Tuesday | Analyze user requirements for the Online Pharmacy Website and AI Medical Consultation Chatbot System. Identify the primary actors and system functionalities. | 19/05/2026 | 19/05/2026 | Project Requirement |
-| Wednesday | Research similar pharmacy management systems and online medicine sales platforms to identify useful features and development approaches. | 20/05/2026 | 20/05/2026 | Internet Research |
-| Thursday | Analyze the AWS architecture and determine suitable AWS services including Amplify, Cognito, API Gateway, Lambda, RDS, S3, Bedrock, OpenSearch, CloudWatch, and SNS. | 21/05/2026 | 21/05/2026 | AWS Documentation |
-| Friday | Summarize the system requirements, finalize the project scope, and prepare for the system design phase in the following week. | 22/05/2026 | 22/05/2026 | Mentor Guidance |
+| Monday | Study Amazon RDS concepts, supported database engines, and deployment models. | 18/05/2026 | 18/05/2026 | AWS Skill Builder |
+| Tuesday | Perform Hands-on Labs by creating and configuring Amazon RDS instances. | 19/05/2026 | 19/05/2026 | AWS Hands-on Labs |
+| Wednesday | Practice configuring DB Subnet Groups, Security Groups, and database connectivity. | 20/05/2026 | 20/05/2026 | AWS Documentation |
+| Thursday | Learn database backup, snapshot creation, and recovery using Amazon RDS. | 21/05/2026 | 21/05/2026 | AWS Documentation |
+| Friday | Review laboratory exercises, discuss database architecture with mentors, and evaluate database solutions for the internship project. | 22/05/2026 | 22/05/2026 | Mentor Guidance |
 
 ### Week 5 Achievements:
 
-* Officially started the internship project implementation.
-
-* Completed requirement analysis for the project:
-  * Online Pharmacy Website.
-  * AI Medical Consultation Chatbot System.
-
-* Identified the main users of the system:
-  * Customer.
-  * Administrator.
-  * Pharmacist.
-
-* Identified the core system functionalities, including:
-  * Medicine management.
-  * Product categories.
-  * Inventory management.
-  * Order management.
-  * Customer management.
-  * AI medical consultation chatbot.
-  * User authentication.
-  * Online ordering.
-
-* Researched similar online pharmacy systems to improve the project design.
-
-* Analyzed the AWS Serverless architecture and selected the AWS services suitable for the project implementation.
-
-* Completed the initial development roadmap and prepared for the system design phase.
+* Successfully completed AWS Learning Modules related to Amazon RDS.
+* Completed Hands-on Labs involving:
+  * Amazon RDS
+  * DB Subnet Groups
+  * Security Groups
+  * Database Connectivity
+* Learned database backup and recovery using Amazon RDS Snapshots.
+* Understood database security best practices on AWS.
+* Gained practical experience deploying relational databases in cloud environments.
+* Prepared database knowledge for the Online Pharmacy project.
 
 ### Knowledge Gained:
 
-* Requirement analysis.
-* Functional analysis.
-* Software development planning.
-* AWS Serverless Architecture.
-* Online pharmacy system workflow.
-* AI chatbot application in healthcare.
-* Software project scope definition.
+* Amazon RDS.
+* Database deployment on AWS.
+* Database security.
+* Backup and recovery strategies.
+* High availability concepts for cloud databases.

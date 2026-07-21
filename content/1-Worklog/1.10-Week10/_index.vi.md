@@ -6,55 +6,38 @@ chapter: false
 pre: " <b> 1.10. </b> "
 ---
 
-### Mục tiêu tuần 10:
+### Mục tiêu tuần:
 
-* Hoàn thiện việc tích hợp các thành phần của hệ thống.
-* Triển khai các dịch vụ giám sát và thông báo trên AWS.
-* Kiểm thử tổng thể toàn bộ hệ thống.
-* Tối ưu hiệu năng và khắc phục các lỗi phát sinh.
-* Chuẩn bị hệ thống sẵn sàng triển khai.
+* Phát triển nền tảng Backend cho hệ thống Website Nhà Thuốc Online.
+* Xây dựng các RESTful API bằng AWS Lambda và Amazon API Gateway.
+* Cấu hình xác thực người dùng bằng Amazon Cognito.
+* Kết nối Backend với cơ sở dữ liệu Amazon RDS PostgreSQL.
 
 ### Công việc thực hiện trong tuần:
 
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| Ngày | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
 | --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
-| Thứ Hai | Tích hợp toàn bộ các thành phần đã phát triển gồm Backend, Frontend, hệ thống xác thực, cơ sở dữ liệu và AI Chatbot thành một hệ thống hoàn chỉnh. | 22/06/2026 | 22/06/2026 | Project Documentation |
-| Thứ Ba | Cấu hình Amazon CloudWatch để giám sát AWS Lambda, API Gateway và theo dõi log của hệ thống. | 23/06/2026 | 23/06/2026 | Amazon CloudWatch Documentation |
-| Thứ Tư | Triển khai Amazon SNS để gửi thông báo và cảnh báo quan trọng đến người dùng và quản trị viên. | 24/06/2026 | 24/06/2026 | Amazon SNS Documentation |
-| Thứ Năm | Kiểm thử tích hợp toàn bộ hệ thống, xác minh hoạt động của các API, AI Chatbot và các chức năng chính của Website Nhà Thuốc Online. | 25/06/2026 | 25/06/2026 | Testing Documentation |
-| Thứ Sáu | Tối ưu hiệu năng hệ thống, khắc phục các lỗi phát hiện trong quá trình kiểm thử và đánh giá tiến độ cùng Mentor. | 26/06/2026 | 26/06/2026 | Mentor Guidance |
+| Thứ Hai | Thiết lập môi trường phát triển Backend và khởi tạo cấu trúc dự án. | 22/06/2026 | 22/06/2026 | Tài liệu dự án |
+| Thứ Ba | Xây dựng các RESTful API bằng AWS Lambda và Amazon API Gateway cho các chức năng chính của hệ thống. | 23/06/2026 | 23/06/2026 | AWS Documentation |
+| Thứ Tư | Cấu hình Amazon Cognito để thực hiện xác thực và phân quyền người dùng. | 24/06/2026 | 24/06/2026 | Amazon Cognito Documentation |
+| Thứ Năm | Kết nối Backend với Amazon RDS PostgreSQL và xây dựng các chức năng CRUD cho cơ sở dữ liệu. | 25/06/2026 | 25/06/2026 | Amazon RDS Documentation |
+| Thứ Sáu | Kiểm thử API bằng Postman, khắc phục các lỗi phát sinh và báo cáo tiến độ với Mentor. | 26/06/2026 | 26/06/2026 | Postman & Mentor Guidance |
 
-### Kết quả đạt được trong tuần:
+### Kết quả đạt được:
 
-* Hoàn thành việc tích hợp toàn bộ các thành phần của hệ thống thành một ứng dụng hoàn chỉnh.
+* Hoàn thành cấu trúc nền tảng Backend của dự án.
+* Xây dựng thành công các RESTful API bằng AWS Lambda và Amazon API Gateway.
+* Cấu hình thành công Amazon Cognito cho chức năng đăng nhập và xác thực người dùng.
+* Kết nối Backend với Amazon RDS PostgreSQL.
+* Hoàn thành các chức năng CRUD cho các module chính.
+* Kiểm thử API bằng Postman và khắc phục các lỗi ban đầu.
+* Hoàn thành Sprint 1 của giai đoạn phát triển Backend.
 
-* Cấu hình thành công Amazon CloudWatch để:
-  * Giám sát hoạt động của AWS Lambda.
-  * Theo dõi log từ API Gateway.
-  * Giám sát hiệu năng của hệ thống.
+### Kiến thức học được:
 
-* Triển khai thành công Amazon SNS để gửi thông báo tự động.
-
-* Hoàn thành kiểm thử tổng thể cho các chức năng:
-  * Đăng nhập và xác thực người dùng.
-  * Quản lý thuốc.
-  * Đặt mua thuốc trực tuyến.
-  * Chatbot AI tư vấn y tế.
-  * Thao tác với cơ sở dữ liệu.
-
-* Khắc phục các lỗi phát hiện trong quá trình kiểm thử và cải thiện tốc độ phản hồi của hệ thống.
-
-* Nâng cao tính ổn định và độ tin cậy của ứng dụng trên nền tảng AWS Serverless.
-
-* Chuẩn bị hệ thống cho giai đoạn triển khai và nghiệm thu.
-
-### Kiến thức đạt được:
-
-* Amazon CloudWatch.
-* Amazon SNS.
-* Kiểm thử tích hợp hệ thống.
-* Tối ưu hiệu năng phần mềm.
-* Kỹ thuật Debug và xử lý lỗi.
-* Dịch vụ giám sát trên AWS.
-* Kiểm thử End-to-End.
-* Chuẩn bị triển khai hệ thống.
+* Phát triển ứng dụng với AWS Lambda.
+* Tích hợp Amazon API Gateway.
+* Xác thực người dùng bằng Amazon Cognito.
+* Kết nối Amazon RDS PostgreSQL.
+* Thiết kế và phát triển RESTful API.
+* Kiểm thử API bằng Postman.

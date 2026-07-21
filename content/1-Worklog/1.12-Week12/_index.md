@@ -8,50 +8,36 @@ pre: " <b> 1.12. </b> "
 
 ### Week 12 Objectives:
 
-* Complete all internship deliverables.
-* Finalize the internship report and project documentation.
-* Prepare the project presentation and system demonstration.
-* Review the entire internship journey with the mentor.
-* Complete the internship program and receive final evaluation.
+* Complete the Online Pharmacy Website and AI Medical Consultation Chatbot System.
+* Deploy and validate the AWS Serverless architecture.
+* Perform system testing, optimization, and bug fixing.
+* Prepare the internship report, presentation, and final project demonstration.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
-| Monday | Review all project modules, verify system stability, and perform final testing before project submission. | 06/07/2026 | 06/07/2026 | Project Documentation |
-| Tuesday | Complete the internship report, technical documentation, deployment guide, and update project diagrams. | 07/07/2026 | 07/07/2026 | Internship Report Template |
-| Wednesday | Prepare the project presentation slides, demonstration scenarios, and rehearse the final presentation. | 08/07/2026 | 08/07/2026 | Presentation Materials |
-| Thursday | Present the project to the mentor, receive feedback, and make final adjustments based on the evaluation. | 09/07/2026 | 09/07/2026 | Mentor Guidance |
-| Friday | Submit all internship deliverables, complete the internship evaluation, summarize the internship experience, and officially conclude the internship program. | 10/07/2026 | 10/07/2026 | Internship Guidelines |
+| Monday | Integrate the frontend, backend, database, and AI chatbot into a complete system and verify all core functionalities. | 06/07/2026 | 06/07/2026 | Project Documentation |
+| Tuesday | Deploy the application on AWS using API Gateway, AWS Lambda, Amazon RDS PostgreSQL, Amazon Cognito, Amazon Bedrock, Amazon CloudFront, and Amazon Route 53. | 07/07/2026 | 07/07/2026 | AWS Documentation |
+| Wednesday | Perform system testing, fix bugs, optimize performance, and verify application stability. | 08/07/2026 | 08/07/2026 | Testing Documentation |
+| Thursday | Complete the internship report, update technical documentation, and prepare the project presentation slides. | 09/07/2026 | 09/07/2026 | Internship Guidelines |
+| Friday | Demonstrate the completed system to mentors, receive feedback, summarize internship achievements, and finalize all deliverables. | 10/07/2026 | 10/07/2026 | Mentor Guidance |
 
 ### Week 12 Achievements:
 
 * Successfully completed the **Online Pharmacy Website & AI Medical Consultation Chatbot System based on AWS Serverless**.
-
-* Verified the complete system, including:
-  * User Authentication.
-  * Medicine Management.
-  * Online Medicine Ordering.
-  * AI Medical Consultation Chatbot.
-  * AWS Serverless Infrastructure.
-
-* Completed the internship report and all required technical documentation.
-
-* Prepared and completed the final project presentation.
-
-* Successfully demonstrated the system to the mentor and received valuable feedback.
-
-* Completed all internship requirements and submitted the final deliverables.
-
-* Concluded the internship program with valuable practical experience in Cloud Computing, AI, and AWS Serverless application development.
+* Integrated all system components into a fully functional application.
+* Successfully deployed the system using AWS Serverless services.
+* Completed system testing, bug fixing, and performance optimization.
+* Finalized the internship report, technical documentation, and presentation slides.
+* Demonstrated the project to mentors and received valuable feedback.
+* Successfully completed the internship program and achieved all planned objectives.
 
 ### Knowledge Gained:
 
-* End-to-end software development lifecycle.
-* Technical report writing.
-* Project presentation skills.
-* Software deployment and maintenance.
-* Cloud application architecture.
-* AI application development.
-* Professional teamwork and communication.
-* Real-world software engineering practices.
+* Full-stack application deployment on AWS.
+* AWS Serverless application integration.
+* System testing and performance optimization.
+* Technical documentation and project presentation.
+* Team collaboration in software development.
+* Practical experience in cloud-native application development.

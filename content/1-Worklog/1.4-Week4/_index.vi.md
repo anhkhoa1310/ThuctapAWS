@@ -6,59 +6,42 @@ chapter: false
 pre: " <b> 1.4. </b> "
 ---
 
-### Mục tiêu tuần 4:
+### Mục tiêu tuần:
 
-* Tiếp tục học các Module AWS trong chương trình First Cloud AI Journey.
-* Hoàn thành các bài thực hành Hands-on Lab về dịch vụ tính toán, lưu trữ, mạng và Serverless.
-* Thực hành sử dụng Amazon EC2, Amazon S3, Amazon VPC, AWS Lambda và Amazon API Gateway.
-* Hiểu được cách các dịch vụ AWS phối hợp với nhau để xây dựng hệ thống Cloud hiện đại.
-* Chuẩn bị kiến thức để bước sang giai đoạn phân tích và thiết kế dự án.
+* Học các dịch vụ AWS Serverless nâng cao thông qua AWS Learning Modules.
+* Thực hiện Hands-on Labs với AWS Lambda, API Gateway, DynamoDB và CloudWatch.
+* Hiểu kiến trúc và quy trình hoạt động của ứng dụng Serverless.
+* Chuẩn bị nền tảng kỹ thuật cho giai đoạn phát triển dự án.
 
 ### Công việc thực hiện trong tuần:
 
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| Ngày | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
 | --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
-| Thứ Hai | Học về Amazon EC2, các loại Instance, Security Group, Key Pair và cách quản lý máy chủ trên AWS. | 11/05/2026 | 11/05/2026 | AWS Skill Builder |
-| Thứ Ba | Thực hiện Hands-on Lab tạo và quản lý EC2 Instance, cấu hình Security Group và kết nối máy chủ bằng SSH. | 12/05/2026 | 12/05/2026 | FCAJ Hands-on Lab |
-| Thứ Tư | Tìm hiểu Amazon S3, cách tạo Bucket, quản lý Object, Versioning, Lifecycle và phân quyền truy cập dữ liệu. | 13/05/2026 | 13/05/2026 | AWS Documentation |
-| Thứ Năm | Học Amazon VPC, AWS Lambda và Amazon API Gateway. Thực hành xây dựng API Serverless đơn giản thông qua Hands-on Lab. | 14/05/2026 | 14/05/2026 | AWS Skill Builder |
-| Thứ Sáu | Tổng hợp các bài Hands-on Lab đã hoàn thành, hệ thống lại kiến thức về các dịch vụ AWS và trao đổi với Mentor về khả năng áp dụng vào dự án thực tập. | 15/05/2026 | 15/05/2026 | Mentor Guidance |
+| Thứ Hai | Tiếp tục học AWS Learning Modules về AWS Lambda và Amazon API Gateway. | 11/05/2026 | 11/05/2026 | AWS Skill Builder |
+| Thứ Ba | Thực hiện Hands-on Labs tạo AWS Lambda Function và tích hợp với Amazon API Gateway. | 12/05/2026 | 12/05/2026 | AWS Hands-on Labs |
+| Thứ Tư | Tìm hiểu Amazon DynamoDB và thực hành thiết kế cơ sở dữ liệu NoSQL cho ứng dụng Serverless. | 13/05/2026 | 13/05/2026 | AWS Documentation |
+| Thứ Năm | Thực hành giám sát tài nguyên AWS bằng Amazon CloudWatch và CloudWatch Logs. | 14/05/2026 | 14/05/2026 | AWS CloudWatch Documentation |
+| Thứ Sáu | Tham gia Workshop hằng tuần, ôn tập kiến trúc Serverless và trao đổi với Mentor về các ứng dụng thực tế. | 15/05/2026 | 15/05/2026 | Workshop & Mentor Guidance |
 
-### Kết quả đạt được trong tuần:
+### Kết quả đạt được:
 
-* Hoàn thành các Module AWS liên quan đến:
-  * Amazon EC2.
-  * Amazon S3.
-  * Amazon VPC.
-  * AWS Lambda.
-  * Amazon API Gateway.
+* Hoàn thành AWS Learning Modules về kiến trúc Serverless.
+* Hoàn thành Hands-on Labs bao gồm:
+  * AWS Lambda
+  * Amazon API Gateway
+  * Amazon DynamoDB
+  * Amazon CloudWatch
+* Hiểu cách xây dựng ứng dụng Serverless thông qua API Gateway và Lambda.
+* Thực hành thiết kế cơ sở dữ liệu NoSQL với DynamoDB.
+* Biết cách sử dụng CloudWatch để giám sát hoạt động của Lambda và thu thập nhật ký hệ thống.
+* Nâng cao kiến thức về phát triển ứng dụng Cloud Native trên AWS.
+* Chuẩn bị nền tảng kỹ thuật cho giai đoạn triển khai dự án.
 
-* Hoàn thành các bài thực hành Hands-on Lab về:
-  * Khởi tạo và quản lý EC2 Instance.
-  * Cấu hình Security Group.
-  * Quản lý dữ liệu trên Amazon S3.
-  * Xây dựng AWS Lambda Function cơ bản.
-  * Tạo API đơn giản bằng Amazon API Gateway.
+### Kiến thức học được:
 
-* Hiểu được mối liên hệ giữa các dịch vụ tính toán, lưu trữ, mạng và Serverless trên nền tảng AWS.
-
-* Nâng cao kỹ năng triển khai và quản lý tài nguyên Cloud thông qua các bài thực hành.
-
-* Hiểu cách kết hợp các dịch vụ AWS để xây dựng một hệ thống Cloud có khả năng mở rộng và dễ quản lý.
-
-* Trao đổi với Mentor về việc áp dụng các dịch vụ AWS vào đề tài:
-
-  **Website Nhà Thuốc Online & Hệ Thống Chatbot AI Tư Vấn Y Tế dựa trên AWS Serverless.**
-
-* Hoàn thành giai đoạn học nền tảng AWS và sẵn sàng chuyển sang giai đoạn phân tích, thiết kế và phát triển dự án.
-
-### Kiến thức đạt được:
-
-* Amazon EC2.
-* Amazon S3.
-* Amazon VPC.
 * AWS Lambda.
 * Amazon API Gateway.
-* Kiến trúc Serverless.
-* Kiến thức cơ bản về mạng trên AWS.
-* Kỹ năng thực hành Hands-on Lab trên nền tảng AWS.
+* Amazon DynamoDB.
+* Amazon CloudWatch.
+* Kiến trúc ứng dụng Serverless.
+* Giám sát và ghi log trên AWS.

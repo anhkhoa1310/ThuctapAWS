@@ -8,57 +8,37 @@ pre: " <b> 1.6. </b> "
 
 ### Week 6 Objectives:
 
-* Design the overall architecture of the Online Pharmacy Website & AI Medical Consultation Chatbot System.
-* Create the system use case diagram and identify user interactions.
-* Design the database schema and relationships.
-* Define the RESTful API structure for the backend.
-* Prepare the technical documents before the implementation phase.
+* Learn containerization and application deployment on AWS.
+* Understand Docker, Amazon ECS, Amazon ECR, and Elastic Load Balancer.
+* Practice deploying containerized applications in cloud environments.
+* Prepare deployment knowledge for the internship project.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
-| Monday | Design the overall system architecture based on AWS Serverless services, including frontend, backend, database, AI chatbot, monitoring, and notification components. | 25/05/2026 | 25/05/2026 | AWS Architecture Diagram |
-| Tuesday | Analyze system actors and create the Use Case Diagram for Customer, Pharmacist, and Administrator. | 26/05/2026 | 26/05/2026 | UML Documentation |
-| Wednesday | Design the relational database schema, define tables, primary keys, foreign keys, and relationships for the pharmacy management system. | 27/05/2026 | 27/05/2026 | MySQL Documentation |
-| Thursday | Design RESTful APIs for user authentication, medicine management, order processing, AI chatbot integration, and customer management. | 28/05/2026 | 28/05/2026 | REST API Design Guide |
-| Friday | Review the overall system design with the mentor, revise the architecture if necessary, and finalize the design documents before development. | 29/05/2026 | 29/05/2026 | Mentor Guidance |
+| Monday | Learn Docker fundamentals, Docker Images, Containers, and Docker Compose. | 25/05/2026 | 25/05/2026 | Docker Documentation |
+| Tuesday | Practice creating Docker Images and deploying applications using Docker Compose. | 26/05/2026 | 26/05/2026 | Hands-on Labs |
+| Wednesday | Learn Amazon Elastic Container Registry (Amazon ECR) and Amazon Elastic Container Service (Amazon ECS). | 27/05/2026 | 27/05/2026 | AWS Documentation |
+| Thursday | Perform Hands-on Labs deploying Docker containers to Amazon ECS and configuring Amazon ECR repositories. | 28/05/2026 | 28/05/2026 | AWS Hands-on Labs |
+| Friday | Learn Elastic Load Balancer and Auto Scaling concepts, then discuss cloud deployment architecture with mentors. | 29/05/2026 | 29/05/2026 | Mentor Guidance |
 
 ### Week 6 Achievements:
 
-* Successfully completed the overall architecture design for the internship project.
-
-* Designed the AWS Serverless architecture using:
-  * AWS Amplify.
-  * Amazon Cognito.
-  * Amazon API Gateway.
-  * AWS Lambda.
-  * Amazon RDS.
-  * Amazon S3.
-  * Amazon Bedrock.
-  * Amazon OpenSearch Serverless.
-  * Amazon CloudWatch.
-  * Amazon SNS.
-
-* Completed the Use Case Diagram for the system.
-
-* Identified the responsibilities of each user role:
-  * Customer.
-  * Pharmacist.
-  * Administrator.
-
-* Designed the relational database structure, including tables, relationships, and constraints.
-
-* Defined the RESTful API endpoints required for system implementation.
-
-* Completed the technical design documentation and prepared for the implementation phase.
+* Successfully learned Docker containerization concepts.
+* Built and deployed Docker Images using Docker Compose.
+* Understood how Amazon ECS manages containerized applications.
+* Successfully pushed Docker Images to Amazon ECR.
+* Learned Load Balancing and Auto Scaling mechanisms on AWS.
+* Improved understanding of cloud application deployment.
+* Prepared deployment knowledge for the internship project.
 
 ### Knowledge Gained:
 
-* AWS Serverless system architecture.
-* UML Use Case Diagram.
-* Relational database design.
-* RESTful API design.
-* Software architecture planning.
-* Backend system analysis.
-* Technical documentation.
+* Docker.
+* Docker Compose.
+* Amazon ECS.
+* Amazon ECR.
+* Elastic Load Balancer.
+* Auto Scaling.
+* Container deployment best practices.

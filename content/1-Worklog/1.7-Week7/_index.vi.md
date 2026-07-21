@@ -6,52 +6,39 @@ chapter: false
 pre: " <b> 1.7. </b> "
 ---
 
-### Mục tiêu tuần 7:
+### Mục tiêu tuần:
 
-* Bắt đầu giai đoạn phát triển hệ thống.
-* Xây dựng nền tảng Backend theo kiến trúc AWS Serverless.
-* Khởi tạo cơ sở dữ liệu trên Amazon RDS.
-* Phát triển các RESTful API cho các chức năng cốt lõi của hệ thống.
-* Kiểm thử kết nối giữa Backend và cơ sở dữ liệu.
+* Tìm hiểu các dịch vụ giám sát, bảo mật và quản lý chi phí trên AWS.
+* Nắm được quy trình CI/CD và triển khai ứng dụng trên môi trường Cloud.
+* Tổng kết giai đoạn đào tạo AWS và chuẩn bị bước sang giai đoạn thực hiện dự án.
+* Hoàn thiện nền tảng kỹ thuật trước khi triển khai đề tài thực tập.
 
 ### Công việc thực hiện trong tuần:
 
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| Ngày | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
 | --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
-| Thứ Hai | Khởi tạo Repository của dự án, thiết lập môi trường phát triển Backend và cấu trúc thư mục dự án. | 01/06/2026 | 01/06/2026 | GitHub Repository |
-| Thứ Ba | Tạo cơ sở dữ liệu trên Amazon RDS (MySQL) và triển khai các bảng dữ liệu theo thiết kế đã xây dựng ở tuần trước. | 02/06/2026 | 02/06/2026 | Amazon RDS Documentation |
-| Thứ Tư | Phát triển các RESTful API phục vụ chức năng đăng nhập, xác thực người dùng và quản lý khách hàng bằng AWS Lambda kết hợp Amazon API Gateway. | 03/06/2026 | 03/06/2026 | AWS Lambda Documentation |
-| Thứ Năm | Xây dựng các API quản lý thuốc (CRUD), đồng thời kiểm tra khả năng kết nối giữa Backend và cơ sở dữ liệu. | 04/06/2026 | 04/06/2026 | REST API Documentation |
-| Thứ Sáu | Kiểm thử các API đã xây dựng, đánh giá kết quả cùng Mentor và tối ưu cấu trúc dự án để chuẩn bị cho các chức năng tiếp theo. | 05/06/2026 | 05/06/2026 | Mentor Guidance |
+| Thứ Hai | Học Amazon CloudWatch, CloudWatch Logs và CloudWatch Alarms để giám sát tài nguyên AWS. | 01/06/2026 | 01/06/2026 | AWS Skill Builder |
+| Thứ Ba | Tìm hiểu AWS Budgets và Cost Explorer để theo dõi, tối ưu chi phí sử dụng dịch vụ AWS. | 02/06/2026 | 02/06/2026 | AWS Documentation |
+| Thứ Tư | Tìm hiểu AWS Security Hub và AWS Trusted Advisor nhằm nâng cao khả năng bảo mật và tối ưu hệ thống Cloud. | 03/06/2026 | 03/06/2026 | AWS Documentation |
+| Thứ Năm | Học Amazon Route 53 và quy trình CI/CD cơ bản bằng GitHub Actions phục vụ triển khai ứng dụng. | 04/06/2026 | 04/06/2026 | AWS Documentation & GitHub Docs |
+| Thứ Sáu | Tổng kết chương trình đào tạo AWS, hệ thống lại kiến thức đã học, trao đổi với Mentor về kế hoạch triển khai dự án và chuẩn bị bước sang giai đoạn phát triển hệ thống. | 05/06/2026 | 05/06/2026 | Mentor Guidance |
 
-### Kết quả đạt được trong tuần:
+### Kết quả đạt được:
 
-* Chính thức bước vào giai đoạn phát triển hệ thống.
+* Hoàn thành giai đoạn đào tạo kỹ thuật AWS.
+* Nắm được cách giám sát tài nguyên bằng Amazon CloudWatch.
+* Hiểu cách quản lý và tối ưu chi phí bằng AWS Budgets và Cost Explorer.
+* Tìm hiểu các dịch vụ bảo mật AWS Security Hub và Trusted Advisor.
+* Nắm được kiến thức về Amazon Route 53 và quy trình CI/CD với GitHub Actions.
+* Hệ thống lại toàn bộ kiến thức đã học trong chương trình AWS First Cloud Journey.
+* Chuẩn bị đầy đủ kiến thức và kế hoạch để triển khai dự án **Website Nhà Thuốc Online & Hệ Thống Chatbot AI Tư Vấn Y Tế dựa trên AWS Serverless**.
 
-* Hoàn thành việc khởi tạo môi trường phát triển Backend.
+### Kiến thức học được:
 
-* Xây dựng cơ sở dữ liệu trên Amazon RDS theo đúng thiết kế.
-
-* Thiết lập thành công kết nối giữa Backend và cơ sở dữ liệu.
-
-* Phát triển các RESTful API đầu tiên gồm:
-  * Đăng nhập và xác thực người dùng.
-  * Quản lý khách hàng.
-  * Quản lý thuốc.
-
-* Triển khai các AWS Lambda Function và tích hợp với Amazon API Gateway.
-
-* Kiểm thử thành công các API và xác nhận dữ liệu được lưu trữ chính xác trên Amazon RDS.
-
-* Trao đổi với Mentor về tiến độ phát triển và nhận góp ý để tiếp tục triển khai các chức năng nâng cao.
-
-### Kiến thức đạt được:
-
-* Triển khai Amazon RDS.
-* Phát triển AWS Lambda.
-* Tích hợp Amazon API Gateway.
-* Xây dựng RESTful API.
-* Quy trình phát triển Backend.
-* Kết nối cơ sở dữ liệu.
-* Kiểm thử API.
-* Kiến trúc Backend theo AWS Serverless.
+* Amazon CloudWatch.
+* AWS Budgets.
+* AWS Cost Explorer.
+* AWS Security Hub.
+* AWS Trusted Advisor.
+* Amazon Route 53.
+* CI/CD với GitHub Actions.

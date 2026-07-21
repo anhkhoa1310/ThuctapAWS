@@ -6,58 +6,37 @@ chapter: false
 pre: " <b> 1.8. </b> "
 ---
 
-### Mục tiêu tuần 8:
+### Mục tiêu tuần:
 
-* Tiếp tục phát triển đồ án thực tập.
-* Xây dựng giao diện Website Nhà Thuốc Online.
-* Triển khai chức năng xác thực người dùng bằng Amazon Cognito.
-* Kết nối giao diện với các RESTful API của hệ thống.
-* Xây dựng chức năng xem và đặt mua thuốc.
+* Bắt đầu triển khai đồ án thực tập.
+* Phân tích yêu cầu nghiệp vụ của Website Nhà Thuốc Online.
+* Xác định yêu cầu chức năng và phi chức năng của hệ thống.
+* Thiết kế kiến trúc tổng thể dựa trên AWS Serverless.
 
 ### Công việc thực hiện trong tuần:
 
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| Ngày | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
 | --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
-| Thứ Hai | Khởi tạo dự án Frontend bằng Next.js kết hợp AWS Amplify, cấu hình cấu trúc thư mục và định tuyến cho hệ thống. | 08/06/2026 | 08/06/2026 | Next.js Documentation |
-| Thứ Ba | Thiết kế và xây dựng giao diện Trang chủ, Danh mục thuốc và Chi tiết thuốc. | 09/06/2026 | 09/06/2026 | UI Design |
-| Thứ Tư | Tích hợp Amazon Cognito để triển khai chức năng đăng ký, đăng nhập, xác thực và phân quyền người dùng. | 10/06/2026 | 10/06/2026 | Amazon Cognito Documentation |
-| Thứ Năm | Kết nối Frontend với các RESTful API để hiển thị dữ liệu thuốc, thông tin khách hàng và xây dựng chức năng đặt mua thuốc. | 11/06/2026 | 11/06/2026 | REST API Documentation |
-| Thứ Sáu | Kiểm thử giao diện, xác minh quy trình đăng nhập, đánh giá tiến độ cùng Mentor và tối ưu trải nghiệm người dùng. | 12/06/2026 | 12/06/2026 | Mentor Guidance |
+| Thứ Hai | Tiếp nhận yêu cầu dự án từ Mentor, trao đổi phạm vi thực hiện với các thành viên trong nhóm. | 08/06/2026 | 08/06/2026 | Mentor Guidance |
+| Thứ Ba | Phân tích nghiệp vụ Website Nhà Thuốc Online, bao gồm quản lý thuốc, bán thuốc trực tuyến và chatbot AI tư vấn y tế. | 09/06/2026 | 09/06/2026 | Tài liệu yêu cầu dự án |
+| Thứ Tư | Xác định yêu cầu chức năng, phi chức năng và phân chia các module chính của hệ thống. | 10/06/2026 | 10/06/2026 | Software Requirement Specification |
+| Thứ Năm | Thiết kế kiến trúc tổng thể AWS Serverless gồm API Gateway, AWS Lambda, Amazon RDS PostgreSQL, Amazon Cognito, Amazon Bedrock, OpenSearch Serverless, Amazon CloudWatch và Amazon SNS. | 11/06/2026 | 11/06/2026 | AWS Architecture Documentation |
+| Thứ Sáu | Báo cáo kiến trúc hệ thống với Mentor, hoàn thiện kế hoạch triển khai và phân chia nhiệm vụ cho từng thành viên trong nhóm. | 12/06/2026 | 12/06/2026 | Mentor Guidance |
 
-### Kết quả đạt được trong tuần:
+### Kết quả đạt được:
 
-* Hoàn thành nền tảng Frontend bằng Next.js.
+* Chính thức bắt đầu triển khai đồ án thực tập.
+* Hoàn thành phân tích yêu cầu nghiệp vụ của Website Nhà Thuốc Online.
+* Xác định đầy đủ yêu cầu chức năng và phi chức năng.
+* Xây dựng danh sách các module chính của hệ thống.
+* Hoàn thành thiết kế kiến trúc tổng thể AWS Serverless.
+* Phân chia công việc giữa các thành viên trong nhóm.
+* Xây dựng lộ trình phát triển cho các giai đoạn tiếp theo của dự án.
 
-* Xây dựng thành công các giao diện chính gồm:
-  * Trang chủ.
-  * Danh mục thuốc.
-  * Chi tiết thuốc.
-  * Đăng nhập.
-  * Đăng ký tài khoản.
+### Kiến thức học được:
 
-* Tích hợp thành công Amazon Cognito để thực hiện:
-  * Đăng ký tài khoản.
-  * Đăng nhập.
-  * Xác thực người dùng.
-  * Quản lý phiên đăng nhập.
-
-* Kết nối giao diện với các RESTful API đã xây dựng ở Backend.
-
-* Hiển thị thành công dữ liệu thuốc từ Amazon RDS thông qua AWS Lambda.
-
-* Hoàn thiện chức năng đặt mua thuốc cơ bản.
-
-* Cải thiện trải nghiệm người dùng bằng cách tối ưu bố cục giao diện và điều hướng.
-
-* Kiểm tra thành công khả năng hoạt động đồng bộ giữa Frontend, Backend và hệ thống xác thực.
-
-### Kiến thức đạt được:
-
-* Phát triển Frontend bằng Next.js.
-* Xác thực người dùng với Amazon Cognito.
-* Triển khai ứng dụng bằng AWS Amplify.
-* Kết nối Frontend và Backend.
-* Sử dụng RESTful API.
-* Thiết kế giao diện người dùng.
-* Quy trình xác thực người dùng.
-* Kiến trúc ứng dụng Web hiện đại.
+* Phân tích yêu cầu phần mềm.
+* Đặc tả yêu cầu hệ thống.
+* Thiết kế kiến trúc AWS Serverless.
+* Phân chia module hệ thống.
+* Kỹ năng lập kế hoạch và làm việc nhóm.

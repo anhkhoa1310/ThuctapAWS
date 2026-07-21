@@ -8,50 +8,37 @@ pre: " <b> 1.7. </b> "
 
 ### Week 7 Objectives:
 
-* Begin the implementation phase of the internship project.
-* Develop the backend foundation using AWS Serverless architecture.
-* Create the relational database on Amazon RDS.
-* Implement RESTful APIs for core system modules.
-* Test the backend services and database connectivity.
+* Learn AWS monitoring, security, and cost management services.
+* Understand CI/CD concepts and cloud deployment workflows.
+* Review the AWS training program and prepare for project implementation.
+* Complete the technical learning phase before starting the internship project.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
-| Monday | Create the project repository and initialize the backend development environment. Configure the project structure and development tools. | 01/06/2026 | 01/06/2026 | GitHub Repository |
-| Tuesday | Create the database on Amazon RDS (MySQL) and implement the database schema designed in the previous week. | 02/06/2026 | 02/06/2026 | Amazon RDS Documentation |
-| Wednesday | Develop RESTful APIs for user authentication and customer management using AWS Lambda and Amazon API Gateway. | 03/06/2026 | 03/06/2026 | AWS Lambda Documentation |
-| Thursday | Implement medicine management APIs including CRUD operations and database connectivity testing. | 04/06/2026 | 04/06/2026 | REST API Documentation |
-| Friday | Perform functional testing for backend APIs, review the implementation with the mentor, and optimize the project structure for the next development phase. | 05/06/2026 | 05/06/2026 | Mentor Guidance |
+| Monday | Study Amazon CloudWatch, CloudWatch Logs, and CloudWatch Alarms for monitoring AWS resources. | 01/06/2026 | 01/06/2026 | AWS Skill Builder |
+| Tuesday | Learn AWS Budgets and Cost Explorer to monitor and optimize AWS service costs. | 02/06/2026 | 02/06/2026 | AWS Documentation |
+| Wednesday | Learn AWS Security Hub and AWS Trusted Advisor to improve cloud security and operational best practices. | 03/06/2026 | 03/06/2026 | AWS Documentation |
+| Thursday | Study AWS Route 53 and basic CI/CD concepts using GitHub Actions for cloud application deployment. | 04/06/2026 | 04/06/2026 | AWS Documentation & GitHub Docs |
+| Friday | Review the AWS training program, summarize technical knowledge, discuss project planning with mentors, and prepare for the project implementation phase. | 05/06/2026 | 05/06/2026 | Mentor Guidance |
 
 ### Week 7 Achievements:
 
-* Successfully entered the project implementation phase.
-
-* Initialized the backend development environment.
-
-* Created the relational database on Amazon RDS based on the designed schema.
-
-* Successfully connected the backend services with the database.
-
-* Developed the first RESTful APIs, including:
-  * User Authentication.
-  * Customer Management.
-  * Medicine Management.
-
-* Successfully deployed Lambda Functions and integrated them with Amazon API Gateway.
-
-* Verified API responses using testing tools and confirmed database connectivity.
-
-* Reviewed the implementation progress with the mentor and received feedback for further improvements.
+* Successfully completed the AWS technical training phase.
+* Learned monitoring and logging using Amazon CloudWatch.
+* Understood AWS Budgets and Cost Explorer for cloud cost optimization.
+* Learned cloud security management using AWS Security Hub and Trusted Advisor.
+* Gained knowledge of Route 53 and CI/CD deployment workflows with GitHub Actions.
+* Reviewed the knowledge gained throughout the AWS learning program.
+* Prepared the technical foundation and development plan for the internship project.
 
 ### Knowledge Gained:
 
-* Amazon RDS implementation.
-* AWS Lambda development.
-* Amazon API Gateway integration.
-* RESTful API implementation.
-* Backend development workflow.
-* Database connectivity.
-* API testing techniques.
-* AWS Serverless backend architecture.
+* Amazon CloudWatch.
+* AWS Budgets.
+* AWS Cost Explorer.
+* AWS Security Hub.
+* AWS Trusted Advisor.
+* Amazon Route 53.
+* CI/CD using GitHub Actions.

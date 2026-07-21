@@ -1,5 +1,5 @@
 ---
-title: "Week 11 Worklog"
+title: "Week 11"
 date: 2026-07-06
 weight: 11
 chapter: false
@@ -8,55 +8,36 @@ pre: " <b> 1.11. </b> "
 
 ### Week 11 Objectives:
 
-* Deploy the complete application to the AWS Cloud environment.
-* Perform User Acceptance Testing (UAT) and system validation.
-* Optimize the overall application performance and user experience.
-* Prepare technical documentation for the project.
-* Finalize the system before the internship presentation.
+* Develop the AI Medical Consultation Chatbot.
+* Integrate Amazon Bedrock with the backend services.
+* Configure Amazon OpenSearch Serverless for knowledge retrieval.
+* Perform system integration and functional testing.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
-| Monday | Deploy the frontend and backend services to AWS using AWS Amplify, API Gateway, Lambda, Amazon RDS, Amazon S3, and Amazon Bedrock. | 29/06/2026 | 29/06/2026 | AWS Documentation |
-| Tuesday | Verify the deployment environment and perform functional testing to ensure all cloud services operate correctly. | 30/06/2026 | 30/06/2026 | Testing Documentation |
-| Wednesday | Conduct User Acceptance Testing (UAT), collect feedback, identify issues, and improve the system accordingly. | 01/07/2026 | 01/07/2026 | UAT Checklist |
-| Thursday | Optimize application performance, improve chatbot responses, database queries, API execution, and frontend responsiveness. | 02/07/2026 | 02/07/2026 | Performance Guideline |
-| Friday | Prepare technical documentation, deployment guide, system architecture description, and discuss the final results with the mentor. | 03/07/2026 | 03/07/2026 | Mentor Guidance |
+| Monday | Study Amazon Bedrock services and prepare the AI chatbot architecture for medical consultation. | 29/06/2026 | 29/06/2026 | Amazon Bedrock Documentation |
+| Tuesday | Integrate Amazon Bedrock with AWS Lambda to process user consultation requests. | 30/06/2026 | 30/06/2026 | AWS Documentation |
+| Wednesday | Configure Amazon OpenSearch Serverless to support medical information retrieval for chatbot responses. | 01/07/2026 | 01/07/2026 | OpenSearch Documentation |
+| Thursday | Integrate the chatbot into the Online Pharmacy Website and perform functional testing. | 02/07/2026 | 02/07/2026 | Project Documentation |
+| Friday | Fix identified issues, optimize chatbot response flow, and review the implementation progress with mentors. | 03/07/2026 | 03/07/2026 | Mentor Guidance |
 
 ### Week 11 Achievements:
 
-* Successfully deployed the Online Pharmacy Website & AI Medical Consultation Chatbot System on AWS.
-
-* Verified the successful integration of:
-  * AWS Amplify.
-  * Amazon Cognito.
-  * Amazon API Gateway.
-  * AWS Lambda.
-  * Amazon RDS.
-  * Amazon S3.
-  * Amazon Bedrock.
-  * Amazon OpenSearch Serverless.
-  * Amazon CloudWatch.
-  * Amazon SNS.
-
-* Completed User Acceptance Testing (UAT) and validated the core business functionalities.
-
-* Improved chatbot response quality and optimized API performance.
-
-* Optimized database queries and frontend loading speed.
-
-* Completed technical documentation, deployment guide, and system architecture documentation.
-
-* Prepared the project for the final presentation and internship evaluation.
+* Successfully integrated Amazon Bedrock into the backend system.
+* Configured Amazon OpenSearch Serverless for AI knowledge retrieval.
+* Completed the AI Medical Consultation Chatbot integration.
+* Improved chatbot response accuracy and interaction workflow.
+* Performed integration testing between backend services and AI components.
+* Resolved major issues identified during testing.
+* Completed Sprint 2 of the internship project.
 
 ### Knowledge Gained:
 
-* AWS Cloud Deployment.
-* User Acceptance Testing (UAT).
-* Cloud performance optimization.
-* Deployment workflow.
-* Technical documentation.
-* Production environment management.
-* Software quality assurance.
-* Cloud application maintenance.
+* Amazon Bedrock.
+* Amazon OpenSearch Serverless.
+* AI chatbot integration.
+* Retrieval-Augmented Generation (RAG) concepts.
+* Backend and AI service integration.
+* Functional and integration testing.

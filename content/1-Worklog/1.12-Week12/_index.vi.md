@@ -6,52 +6,38 @@ chapter: false
 pre: " <b> 1.12. </b> "
 ---
 
-### Mục tiêu tuần 12:
+### Mục tiêu tuần:
 
-* Hoàn thành toàn bộ sản phẩm thực tập.
-* Hoàn thiện báo cáo thực tập và tài liệu kỹ thuật.
-* Chuẩn bị slide báo cáo và demo hệ thống.
-* Tổng kết quá trình thực tập cùng Mentor.
-* Hoàn thành chương trình thực tập và nhận đánh giá cuối kỳ.
+* Hoàn thiện hệ thống Website Nhà Thuốc Online và Chatbot AI tư vấn y tế.
+* Triển khai và kiểm thử toàn bộ kiến trúc AWS Serverless.
+* Kiểm thử hệ thống, tối ưu hiệu năng và khắc phục lỗi.
+* Hoàn thành báo cáo thực tập, slide thuyết trình và chuẩn bị Demo dự án.
 
 ### Công việc thực hiện trong tuần:
 
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| Ngày | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
 | --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
-| Thứ Hai | Rà soát toàn bộ các chức năng của hệ thống, kiểm tra tính ổn định và thực hiện kiểm thử cuối cùng trước khi bàn giao dự án. | 06/07/2026 | 06/07/2026 | Project Documentation |
-| Thứ Ba | Hoàn thiện báo cáo thực tập, tài liệu kỹ thuật, hướng dẫn triển khai và cập nhật sơ đồ kiến trúc hệ thống. | 07/07/2026 | 07/07/2026 | Internship Report Template |
-| Thứ Tư | Chuẩn bị slide báo cáo, xây dựng kịch bản demo và luyện tập thuyết trình dự án. | 08/07/2026 | 08/07/2026 | Presentation Materials |
-| Thứ Năm | Báo cáo dự án với Mentor, tiếp nhận góp ý và hoàn thiện các nội dung còn thiếu theo đánh giá. | 09/07/2026 | 09/07/2026 | Mentor Guidance |
-| Thứ Sáu | Nộp toàn bộ sản phẩm thực tập, hoàn thành đánh giá cuối kỳ, tổng kết quá trình thực tập và kết thúc chương trình thực tập. | 10/07/2026 | 10/07/2026 | Internship Guidelines |
+| Thứ Hai | Tích hợp giao diện, Backend, cơ sở dữ liệu và Chatbot AI thành một hệ thống hoàn chỉnh, kiểm tra các chức năng chính. | 06/07/2026 | 06/07/2026 | Tài liệu dự án |
+| Thứ Ba | Triển khai hệ thống trên AWS với API Gateway, AWS Lambda, Amazon RDS PostgreSQL, Amazon Cognito, Amazon Bedrock, Amazon CloudFront và Amazon Route 53. | 07/07/2026 | 07/07/2026 | AWS Documentation |
+| Thứ Tư | Kiểm thử toàn bộ hệ thống, khắc phục lỗi, tối ưu hiệu năng và đánh giá tính ổn định của ứng dụng. | 08/07/2026 | 08/07/2026 | Testing Documentation |
+| Thứ Năm | Hoàn thiện báo cáo thực tập, cập nhật tài liệu kỹ thuật và chuẩn bị slide thuyết trình dự án. | 09/07/2026 | 09/07/2026 | Hướng dẫn thực tập |
+| Thứ Sáu | Demo hệ thống với Mentor, tiếp nhận góp ý, tổng kết kết quả thực tập và hoàn thiện các sản phẩm bàn giao. | 10/07/2026 | 10/07/2026 | Mentor Guidance |
 
-### Kết quả đạt được trong tuần:
+### Kết quả đạt được:
 
-* Hoàn thành **Website Nhà Thuốc Online & Hệ Thống Chatbot AI Tư Vấn Y Tế dựa trên AWS Serverless**.
+* Hoàn thành hệ thống **Website Nhà Thuốc Online & Hệ Thống Chatbot AI Tư Vấn Y Tế dựa trên AWS Serverless**.
+* Tích hợp thành công toàn bộ các thành phần của hệ thống thành một ứng dụng hoàn chỉnh.
+* Triển khai hệ thống trên nền tảng AWS Serverless.
+* Hoàn thành kiểm thử, tối ưu hiệu năng và khắc phục các lỗi phát sinh.
+* Hoàn thiện báo cáo thực tập, tài liệu kỹ thuật và slide thuyết trình.
+* Demo thành công dự án với Mentor và tiếp nhận các góp ý để hoàn thiện sản phẩm.
+* Hoàn thành chương trình thực tập và đạt được các mục tiêu đã đề ra.
 
-* Kiểm tra và xác nhận toàn bộ các chức năng của hệ thống, bao gồm:
-  * Xác thực người dùng.
-  * Quản lý thuốc.
-  * Đặt mua thuốc trực tuyến.
-  * Chatbot AI tư vấn y tế.
-  * Hệ thống AWS Serverless.
+### Kiến thức học được:
 
-* Hoàn thiện báo cáo thực tập và toàn bộ tài liệu kỹ thuật của dự án.
-
-* Chuẩn bị đầy đủ slide và hoàn thành buổi báo cáo, demo hệ thống.
-
-* Tiếp nhận góp ý từ Mentor và hoàn thiện sản phẩm trước khi kết thúc thực tập.
-
-* Hoàn thành đầy đủ các yêu cầu của chương trình thực tập và nộp toàn bộ sản phẩm đúng thời hạn.
-
-* Tổng kết quá trình thực tập, tích lũy thêm nhiều kinh nghiệm thực tế về phát triển ứng dụng Cloud, AI và AWS Serverless.
-
-### Kiến thức đạt được:
-
-* Quy trình phát triển phần mềm hoàn chỉnh.
-* Kỹ năng viết báo cáo kỹ thuật.
-* Kỹ năng thuyết trình và demo sản phẩm.
-* Triển khai và vận hành hệ thống trên Cloud.
-* Kiến trúc ứng dụng AWS Serverless.
-* Phát triển ứng dụng tích hợp AI.
-* Kỹ năng làm việc nhóm và giao tiếp trong môi trường doanh nghiệp.
-* Kinh nghiệm thực tế trong quy trình phát triển phần mềm.
+* Triển khai ứng dụng Full-stack trên AWS.
+* Tích hợp các dịch vụ AWS Serverless.
+* Kiểm thử và tối ưu hiệu năng hệ thống.
+* Viết tài liệu kỹ thuật và trình bày dự án.
+* Kỹ năng làm việc nhóm trong phát triển phần mềm.
+* Kinh nghiệm thực tế trong phát triển ứng dụng Cloud Native.

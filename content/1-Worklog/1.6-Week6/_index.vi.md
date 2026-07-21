@@ -6,59 +6,39 @@ chapter: false
 pre: " <b> 1.6. </b> "
 ---
 
-### Mục tiêu tuần 6:
+### Mục tiêu tuần:
 
-* Thiết kế tổng thể hệ thống Website Nhà Thuốc Online & Hệ Thống Chatbot AI Tư Vấn Y Tế.
-* Xây dựng sơ đồ Use Case và xác định các tác nhân của hệ thống.
-* Thiết kế cơ sở dữ liệu và mối quan hệ giữa các bảng.
-* Thiết kế cấu trúc RESTful API cho hệ thống.
-* Hoàn thiện tài liệu thiết kế trước khi bước vào giai đoạn lập trình.
+* Tìm hiểu công nghệ Container và triển khai ứng dụng trên AWS.
+* Nắm vững Docker, Amazon ECS, Amazon ECR và Elastic Load Balancer.
+* Thực hành triển khai ứng dụng bằng Container trên môi trường Cloud.
+* Chuẩn bị kiến thức triển khai cho dự án thực tập.
 
 ### Công việc thực hiện trong tuần:
 
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| Ngày | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
 | --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
-| Thứ Hai | Thiết kế kiến trúc tổng thể của hệ thống dựa trên mô hình AWS Serverless, bao gồm Frontend, Backend, Cơ sở dữ liệu, AI Chatbot, Monitoring và Notification. | 25/05/2026 | 25/05/2026 | AWS Architecture Diagram |
-| Thứ Ba | Phân tích các tác nhân và xây dựng sơ đồ Use Case cho Khách hàng, Dược sĩ và Quản trị viên. | 26/05/2026 | 26/05/2026 | UML Documentation |
-| Thứ Tư | Thiết kế cơ sở dữ liệu quan hệ, xác định các bảng dữ liệu, khóa chính, khóa ngoại và mối quan hệ giữa các bảng trong hệ thống quản lý nhà thuốc. | 27/05/2026 | 27/05/2026 | MySQL Documentation |
-| Thứ Năm | Thiết kế các RESTful API phục vụ đăng nhập, quản lý thuốc, xử lý đơn hàng, chatbot AI và quản lý khách hàng. | 28/05/2026 | 28/05/2026 | REST API Design Guide |
-| Thứ Sáu | Rà soát toàn bộ thiết kế cùng Mentor, điều chỉnh kiến trúc nếu cần và hoàn thiện tài liệu thiết kế trước khi bắt đầu lập trình. | 29/05/2026 | 29/05/2026 | Mentor Guidance |
+| Thứ Hai | Học Docker cơ bản, Docker Image, Docker Container và Docker Compose. | 25/05/2026 | 25/05/2026 | Docker Documentation |
+| Thứ Ba | Thực hành tạo Docker Image và triển khai ứng dụng bằng Docker Compose. | 26/05/2026 | 26/05/2026 | Hands-on Labs |
+| Thứ Tư | Tìm hiểu Amazon Elastic Container Registry (Amazon ECR) và Amazon Elastic Container Service (Amazon ECS). | 27/05/2026 | 27/05/2026 | AWS Documentation |
+| Thứ Năm | Thực hiện Hands-on Labs triển khai Docker Container lên Amazon ECS và cấu hình Amazon ECR Repository. | 28/05/2026 | 28/05/2026 | AWS Hands-on Labs |
+| Thứ Sáu | Tìm hiểu Elastic Load Balancer và Auto Scaling, đồng thời trao đổi với Mentor về kiến trúc triển khai ứng dụng trên AWS. | 29/05/2026 | 29/05/2026 | Mentor Guidance |
 
-### Kết quả đạt được trong tuần:
+### Kết quả đạt được:
 
-* Hoàn thành thiết kế tổng thể của hệ thống.
+* Hoàn thành nội dung học về Docker và Containerization.
+* Xây dựng và triển khai Docker Image bằng Docker Compose.
+* Hiểu cách Amazon ECS quản lý ứng dụng Container.
+* Thực hành đưa Docker Image lên Amazon ECR.
+* Nắm được nguyên lý hoạt động của Elastic Load Balancer và Auto Scaling.
+* Nâng cao kiến thức triển khai ứng dụng trên nền tảng Cloud.
+* Chuẩn bị nền tảng triển khai cho dự án **Website Nhà Thuốc Online & Hệ Thống Chatbot AI Tư Vấn Y Tế dựa trên AWS Serverless**.
 
-* Xây dựng kiến trúc AWS Serverless bao gồm:
-  * AWS Amplify.
-  * Amazon Cognito.
-  * Amazon API Gateway.
-  * AWS Lambda.
-  * Amazon RDS.
-  * Amazon S3.
-  * Amazon Bedrock.
-  * Amazon OpenSearch Serverless.
-  * Amazon CloudWatch.
-  * Amazon SNS.
+### Kiến thức học được:
 
-* Hoàn thành sơ đồ Use Case của hệ thống.
-
-* Xác định rõ chức năng của từng nhóm người dùng:
-  * Khách hàng.
-  * Dược sĩ.
-  * Quản trị viên.
-
-* Thiết kế cơ sở dữ liệu quan hệ với đầy đủ các bảng dữ liệu, khóa chính, khóa ngoại và mối liên kết.
-
-* Xây dựng danh sách các RESTful API phục vụ cho quá trình phát triển hệ thống.
-
-* Hoàn thiện tài liệu thiết kế kỹ thuật và sẵn sàng bước sang giai đoạn lập trình.
-
-### Kiến thức đạt được:
-
-* Thiết kế kiến trúc AWS Serverless.
-* Thiết kế sơ đồ UML Use Case.
-* Thiết kế cơ sở dữ liệu quan hệ.
-* Thiết kế RESTful API.
-* Phân tích kiến trúc phần mềm.
-* Thiết kế Backend.
-* Kỹ năng xây dựng tài liệu kỹ thuật.
+* Docker.
+* Docker Compose.
+* Amazon ECS.
+* Amazon ECR.
+* Elastic Load Balancer.
+* Auto Scaling.
+* Các thực hành tốt trong triển khai ứng dụng bằng Container trên AWS.
